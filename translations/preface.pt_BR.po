@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-07-29 20:32-0300\n"
 "PO-Revision-Date: 2025-07-31 17:02+0000\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996/preface/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. type: Plain text
 #: chapters/preface.tex:7
 msgid "\\addchap{Preface (2016)}"
-msgstr ""
+msgstr "\\addchap{Prefácio (2016)}"
 
 #. type: refsection
 #: chapters/preface.tex:7
@@ -34,6 +34,14 @@ msgid ""
 "editors Stefan Müller and Martin Haspelmath, as well as Sebastian Nordhoff "
 "and Felix Kopecky, for their help in making this happen."
 msgstr ""
+"Desde quando a versão original deste livro (University of Chicago Press, "
+"1996) se esgotou e não foi reimpressa nos anos 2000, eu venho recebendo "
+"pedidos de pessoas perguntando como poderiam obter uma cópia. Desta forma, "
+"fiquei empolgado ao descobrir que a Language Science Press se propôs a "
+"tornar o livro acessível novamente, como parte de sua série Clássicos da "
+"Linguística. Gostaria de agradecer aos editores da série, Stefan Müller e "
+"Martin Haspelmath, e também a Sebastian Nordhoff e Felix Kopecky, pela ajuda "
+"que tornou isso possível."
 
 #. type: refsection
 #: chapters/preface.tex:15
@@ -41,6 +49,8 @@ msgid ""
 "The content of this new printing is identical to the first printing, with "
 "the following exceptions:"
 msgstr ""
+"O conteúdo desta nova edição é idêntico ao da primeira edição, com as "
+"seguintes exceções:"
 
 #. type: itemize
 #: chapters/preface.tex:15
@@ -48,6 +58,8 @@ msgid ""
 "I have altered the wording in a few places where I found it insufficiently "
 "clear or terminologically outdated;"
 msgstr ""
+"eu alterei a redação de alguns trechos que considerei pouco claros ou "
+"terminologicamente ultrapassados;"
 
 #. type: itemize
 #: chapters/preface.tex:15
@@ -56,6 +68,9 @@ msgid ""
 "\\textit{consultant(s)} or \\textit{speaker(s)}, in keeping with current "
 "practice (of course, the former term still appears in some quoted passages);"
 msgstr ""
+"minha utilização do termo \\textit{informante(s)} foi substituída por "
+"\\textit{sujeito(s)} ou \\textit{falante(s)}, conforme a prática vigente ("
+"evidentemente, o termo original ainda aparece em algumas citações diretas);"
 
 #. type: itemize
 #: chapters/preface.tex:15
@@ -64,6 +79,9 @@ msgid ""
 "been published at the time of the original printing, particularly "
 "\\citet{Cowart1997};"
 msgstr ""
+"eu atualizei os elementos das referências de certos textos que não haviam "
+"sido publicados na época da impressão original, especialmente \\citet"
+"{Cowart1997};"
 
 #. type: itemize
 #: chapters/preface.tex:15
@@ -71,11 +89,15 @@ msgid ""
 "the original index has been split into name and subject indexes, and both "
 "are now more comprehensive."
 msgstr ""
+"o índice original foi dividido em índice onomástico e índice temático, e "
+"ambos se tornaram mais abrangentes."
 
 #. type: refsection
 #: chapters/preface.tex:22
 msgid "\\noindent In terms of presentation, the following things have changed:"
 msgstr ""
+"\\n"
+"oindent No quesito de formatação, os seguintes aspectos mudaram:"
 
 #. type: itemize
 #: chapters/preface.tex:22
@@ -83,11 +105,14 @@ msgid ""
 "the format of citations and references has been adapted to LangSci house "
 "style, as have other minor typographical choices;"
 msgstr ""
+"o formato de citações e referências foi adaptado para o estilo próprio da "
+"LangSci, assim como outros detalhes tipográficos;"
 
 #. type: itemize
 #: chapters/preface.tex:22
 msgid "full given names have been added to references whenever available;"
 msgstr ""
+"prenomes completos foram adicionados às referências sempre que disponíveis;"
 
 #. type: itemize
 #: chapters/preface.tex:22
@@ -97,6 +122,11 @@ msgid ""
 "suggest using those if it is necessary to specify a location within a "
 "chapter. Example numbers are also unchanged."
 msgstr ""
+"já que o texto recebeu uma nova diagramação, a paginação não coincide com a "
+"publicação original; no entanto, os números de (sub)seções foram mantidos: "
+"sugiro que eles sejam usados caso seja necessário especificar uma "
+"localização dentro de um capítulo. A numeração de exemplos também foi "
+"mantida."
 
 #. type: refsection
 #: chapters/preface.tex:24
@@ -114,6 +144,18 @@ msgid ""
 "to works that should allow them to ``get up to speed'' on intervening "
 "developments."
 msgstr ""
+"Sobretudo, eu \\textit{não} tentei atualizar o conteúdo à luz de pesquisas "
+"subsequentes pertinentes à área, já que tal decisão sem dúvida me levaria a "
+"escrever um livro novo por completo. É claro que a linguística e a "
+"psicolinguística mudaram bastante nos 20 anos desde que finalizei o "
+"manuscrito original; a linguística ``teórica'', notavelmente, se tornou mais "
+"``experimental'', por exemplo. Além disso, algumas das minhas próprias "
+"opiniões sobre tais questões evoluíram ao longo dessas duas décadas. Há "
+"trechos do livro que eu teria omitido ou alterado, \\textit{se} tivesse me "
+"permitido fazer quaisquer edições substanciais. Em vez disso, optei por "
+"restringir o seguimento da discussão a este prefácio. A seguir, tentarei "
+"indicar aos leitores trabalhos que permitirão que ``se atualizem'' em "
+"relação aos avanços recentes."
 
 #. type: refsection
 #: chapters/preface.tex:26
