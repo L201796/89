@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-07-29 20:32-0300\n"
-"PO-Revision-Date: 2025-07-31 17:02+0000\n"
+"PO-Revision-Date: 2025-08-01 20:02+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996/preface/pt_BR/>\n"
@@ -251,6 +251,9 @@ msgid ""
 "\\noindent I am aware of no empirical evidence that would indicate how much "
 "UG can vary across individuals.\\\\\\\\"
 msgstr ""
+"\\n"
+"oindent Não estou ciente de qualquer evidência empírica que indicaria quanto "
+"a GU pode variar entre indivíduos.\\\\\\\\"
 
 #. type: flushleft
 #: chapters/preface.tex:60
