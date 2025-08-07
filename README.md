@@ -1,4 +1,5 @@
 # The Empirical Base of Linguistics
+Translation project maintained by Lucas Bernardes and Rafael Beraldo, managed through [Weblate](https://weblate.org). All translation commits should be made on the Hosted Weblate instance.
 
 ## Publication Info
 
