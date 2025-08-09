@@ -7,21 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2025-08-09 10:14-0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-08-09 14:54+0000\n"
+"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"schutze1996/preface96/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. type: Plain text
 #: chapters/preface96.tex:2
-#, fuzzy
-#| msgid "\\addchap{Preface (2016)}"
 msgid "\\addchap{Preface (1996)}"
-msgstr "\\addchap{Prefácio (2016)}"
+msgstr "\\addchap{Prefácio (1996)}"
 
 #. type: Plain text
 #: chapters/preface96.tex:4
