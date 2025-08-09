@@ -69,8 +69,8 @@ msgid ""
 "practice (of course, the former term still appears in some quoted passages);"
 msgstr ""
 "minha utilização do termo \\textit{informante(s)} foi substituída por "
-"\\textit{sujeito(s)} ou \\textit{falante(s)}, conforme a prática vigente ("
-"evidentemente, o termo original ainda aparece em algumas citações diretas);"
+"\\textit{sujeito(s)} ou \\textit{falante(s)}, conforme a prática vigente "
+"(evidentemente, o termo original ainda aparece em algumas citações diretas);"
 
 #. type: itemize
 #: chapters/preface.tex:14
@@ -80,8 +80,8 @@ msgid ""
 "\\citet{Cowart1997};"
 msgstr ""
 "eu atualizei os elementos das referências de certos textos que não haviam "
-"sido publicados na época da impressão original, especialmente \\citet"
-"{Cowart1997};"
+"sido publicados na época da impressão original, especialmente "
+"\\citet{Cowart1997};"
 
 #. type: itemize
 #: chapters/preface.tex:14
@@ -95,9 +95,7 @@ msgstr ""
 #. type: refsection
 #: chapters/preface.tex:21
 msgid "\\noindent In terms of presentation, the following things have changed:"
-msgstr ""
-"\\n"
-"oindent No quesito de formatação, os seguintes aspectos mudaram:"
+msgstr "\\noindent No quesito de formatação, os seguintes aspectos mudaram:"
 
 #. type: itemize
 #: chapters/preface.tex:21
@@ -171,10 +169,10 @@ msgstr ""
 "Para coletâneas constituídas principalmente de artigos sobre os tópicos "
 "pertinentes a este livro, veja \\citet{McNair1996}, \\citet{Penke2004}, "
 "\\citet{Kepser2005}, \\citet{Borsley2005}, \\citet{Featherston2007} e as "
-"réplicas no mesmo número, \\citet{Featherston2007a}, \\citet{Featherston2009}"
-" e \\citet{Winkler2009}. As minhas opiniões mais recentes podem ser "
-"encontradas nos seguintes estudos de revisão: \\citet"
-"{Schuetze2006,Schuetze2011} e \\citet{Schuetze2013}."
+"réplicas no mesmo número, \\citet{Featherston2007a}, "
+"\\citet{Featherston2009} e \\citet{Winkler2009}. As minhas opiniões mais "
+"recentes podem ser encontradas nos seguintes estudos de revisão: "
+"\\citet{Schuetze2006,Schuetze2011} e \\citet{Schuetze2013}."
 
 #. type: refsection
 #: chapters/preface.tex:27
@@ -194,12 +192,12 @@ msgid ""
 "\\isi{Likert scale}\\ia{Likert, Rensis} task, most or all of which have been "
 "subsequently refuted (see \\citealt{Weskott2011} and \\citealt{Sprouse2013})."
 msgstr ""
-"A adaptação da \\isi{tarefa de estimativa de magnitude} da \\isi"
-"{psicolinguística} para a coleta de julgamentos \\citep{BardEtAl1996}. Esse "
-"método foi propagandeado como tendo várias vantagens em potencial em relação "
-"à tradicional tarefa da \\isi{escala Likert}\\ia{Likert, Rensis}, a maior "
-"parte das quais foi posteriormente refutada (veja \\citealt{Weskott2011} e "
-"\\citealt{Sprouse2013})."
+"A adaptação da \\isi{tarefa de estimativa de magnitude} da "
+"\\isi{psicolinguística} para a coleta de julgamentos \\citep{BardEtAl1996}. "
+"Esse método foi propagandeado como tendo várias vantagens em potencial em "
+"relação à tradicional tarefa da \\isi{escala Likert}\\ia{Likert, Rensis}, a "
+"maior parte das quais foi posteriormente refutada (veja "
+"\\citealt{Weskott2011} e \\citealt{Sprouse2013})."
 
 #. type: enumerate
 #: chapters/preface.tex:34
@@ -224,8 +222,8 @@ msgid ""
 msgstr ""
 "O uso do Amazon Mechanical Turk (AMT) e possivelmente de outras plataformas "
 "de \\textit{crowdsourcing} como fontes de participantes em tarefas de "
-"julgamento de aceitabilidade e muitos outros experimentos psicolinguísticos ("
-"até o momento, em um número reduzido de línguas). Para uma investigação "
+"julgamento de aceitabilidade e muitos outros experimentos psicolinguísticos "
+"(até o momento, em um número reduzido de línguas). Para uma investigação "
 "empírica de como os resultados do AMT comparam-se com os julgamentos "
 "coletados no laboratório (em um pequeno conjunto de construções em inglês), "
 "veja \\citet{Sprouse2011}."
@@ -276,24 +274,19 @@ msgid ""
 "\\noindent I am aware of no empirical evidence that would indicate how much "
 "UG can vary across individuals.\\\\\\\\"
 msgstr ""
-"\\n"
-"oindent Não estou ciente de qualquer evidência empírica que indicaria quanto "
-"a GU pode variar entre indivíduos.\\\\\\\\"
+"\\noindent Não estou ciente de qualquer evidência empírica que indicaria "
+"quanto a GU pode variar entre indivíduos.\\\\\\\\"
 
 #. type: flushleft
 #: chapters/preface.tex:59
 #, fuzzy
 msgid "\\noindent Carson T. Schütze"
-msgstr ""
-"\\n"
-"oindent Carson T. Schütze"
+msgstr "\\noindent Carson T. Schütze"
 
 #. type: flushright
 #: chapters/preface.tex:59
 msgid "\\noindent December 2015"
-msgstr ""
-"\\n"
-"oindent Dezembro de 2015"
+msgstr "\\noindent Dezembro de 2015"
 
 #.  \phantomsection\addcontentsline{toc}{section}{References}
 #. type: refsection
