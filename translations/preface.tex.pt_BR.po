@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-07 21:04-0300\n"
-"PO-Revision-Date: 2025-08-09 01:01+0000\n"
+"PO-Revision-Date: 2025-08-09 14:54+0000\n"
 "Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996/preface/pt_BR/>\n"
@@ -239,6 +239,13 @@ msgid ""
 "(\\citet{Hofmeister2010,Hofmeister2012,Hofmeister2012a,Sprouse2012,Sprouse2012a}, "
 "and many of the contributions in \\citealt{Sprouse2014})."
 msgstr ""
+"Os detalhados desafios empíricos\\schdash{}e as defesas\\schdash{}à "
+"proposta, endossada na \\sectref{sec:7.2} deste livro, segundo a qual os "
+"efeitos de Subjacência\\is{violação de Subjacência} poderiam ser reduzidos a "
+"fatores de processamento. Confira \\citet{Yoshida2014}, bem como o debate "
+"Stanford\\slash Maryland (\\citet"
+"{Hofmeister2010,Hofmeister2012,Hofmeister2012a,Sprouse2012,Sprouse2012a} e "
+"várias das contribuições em \\citealt{Sprouse2014})."
 
 #. type: refsection
 #: chapters/preface.tex:36
@@ -251,6 +258,14 @@ msgid ""
 "Grammar} For those who have asked whether Chomsky’s position can be "
 "confirmed in any academic publications, I offer the following quotes:"
 msgstr ""
+"Por fim, há uma declaração de Chosmky,\\ia{Chomsky, Noam} que atribuo no "
+"livro (p.~\\pageref{ChomskyPrefacestart}) a uma popular fonte da imprensa, "
+"sobre a qual frequentemente me perguntam, na qual Chomsky afirma ser um "
+"truísmo que a \\isi{Gramática Universal} (GU) de base genética está sujeita "
+"a \\textit{alguma} variação individual.\\is{variação entre falantes!na "
+"Gramática Universal} Para aqueles que perguntaram se a posição de Chomsky "
+"pode ser confirmada em publicações acadêmicas, apresento as seguintes "
+"citações:"
 
 #. type: quote
 #: chapters/preface.tex:40
@@ -259,6 +274,10 @@ msgid ""
 "the case of language) and conceivable but unknown epigenetic effects, the "
 "principles of UG, whatever they are, are invariant. \\citep[35]{Chomsky2013}"
 msgstr ""
+"Deixando de lado a variação genética (um fenômeno interessante, porém "
+"marginal, no caso da língua) e os efeitos epigenéticos concebíveis, embora "
+"desconhecidos, os princípios da GU, quaisquer que sejam, são invariáveis. "
+"\\citep[35]{Chomsky2013}"
 
 #. type: quote
 #: chapters/preface.tex:44
@@ -267,6 +286,9 @@ msgid ""
 "possession apart from pathology, to an approximation so close that we can "
 "ignore variation. \\citep[138]{Chomsky2008}"
 msgstr ""
+"É pouco controverso que [a faculdade da linguagem] seja uma propriedade "
+"humana comum, exceto pelas patologias, cuja similaridade é tamanha, que "
+"podemos ignorar a variação. \\citep[138]{Chomsky2008}"
 
 #. type: refsection
 #: chapters/preface.tex:59
@@ -279,9 +301,10 @@ msgstr ""
 
 #. type: flushleft
 #: chapters/preface.tex:59
-#, fuzzy
 msgid "\\noindent Carson T. Schütze"
-msgstr "\\noindent Carson T. Schütze"
+msgstr ""
+"\\n"
+"oindent Carson T. Schütze"
 
 #. type: flushright
 #: chapters/preface.tex:59
@@ -293,3 +316,5 @@ msgstr "\\noindent Dezembro de 2015"
 #: chapters/preface.tex:59
 msgid "\\nocite{Phillips2006} \\printbibliography[heading=prefacebib]"
 msgstr ""
+"\\n"
+"ocite{Phillips2006} \\printbibliography[heading=prefacebib]"
