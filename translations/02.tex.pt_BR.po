@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-02-04 08:01+0000\n"
+"PO-Revision-Date: 2026-02-11 08:09+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/02/pt_BR/>\n"
@@ -1814,6 +1814,16 @@ msgid ""
 "\\is{grammaticality!operational evidence versus criterion for} for choosing "
 "data."
 msgstr ""
+"É interessante examinar o que outros linguistas teóricos pensam atualmente "
+"sobre os tipos de evidência disponíveis para eles. A passagem "
+"excepcionalmente explícita que segue (de onde a epígrafe do \\chapref{sec:1} "
+"foi retirada) confirma que dados de julgamento ainda são considerados a "
+"fonte primária\\is{julgamentos de gramaticalidade!como fonte primária de "
+"dados} de evidência linguística, e assim destaca a importância de estudar\\is"
+"{julgamentos de gramaticalidade!razões para estudar} suas propriedades. Ela "
+"também reafirma que seguimos sem um critério baseado em princípios\\is"
+"{critério versus evidência (de gramaticalidade)}\\is{evidência versus "
+"critério (de gramaticalidade)} para selecionar dados."
 
 #. type: quote
 #: chapters/02.tex:201
@@ -1863,6 +1873,19 @@ msgid ""
 "profess ignorance of the reasons why judgment data are useful."
 "\\is{grammaticality judgments!arguments for use of} For example, Baker notes:"
 msgstr ""
+"\\n"
+"oindent É ao menos possível, \\textit{a priori}, que o motivo de julgamentos "
+"aparentemente funcionarem bem para linguistas seja que eles podem ser "
+"manipulados e distorcidos\\is{por linguistas!manipulação de introspecção} "
+"para servir ao propósito de uma análise. Sobre essa conexão, \\citep[82]"
+"{Birdsong1989} sugere que ``a linguística é uma empreitada potencialmente "
+"fraudulenta quando a eliciação de dados pode ser manipulada para "
+"exemplificar análises teóricas prediletas. Seria difícil imaginar um "
+"argumento mais potente a favor da compreensão da psicologia da performance "
+"metalinguística\".\\is{performance} De fato. A maioria dos linguistas alega "
+"ser ignorante das razões pelas quais dados de julgamento são úteis.\\is"
+"{julgamentos de gramaticalidade!argumentos a favor do uso de} Baker observa, "
+"por exemplo:"
 
 #. type: quote
 #: chapters/02.tex:211
@@ -1876,6 +1899,15 @@ msgid ""
 "wisdom to reliably discern which linguistic behaviors are like autumn leaves "
 "and which are like steel ball bearings. \\citep[29]{Baker1988}"
 msgstr ""
+"Focamos naqueles comportamentos linguísticos que \\textit{por algum motivo} "
+"são mais propensos a revelar as estruturas mentais em sua verdadeira luz. A "
+"situação pode ser comparada à do físico que tenta determinar a força da "
+"gravidade. [...] Infelizmente, há todos os indícios de que muito do "
+"comportamento linguístico de que temos registro é como a folha de outono\\s"
+"chdash{}complicado por vários outros fatores externos. [...] Não afirmo "
+"possuir a sabedoria para discernir seguramente quais comportamentos "
+"linguísticos são como folhas de outono e quais são como esferas de aço. \\c"
+"itep[29]{Baker1988}"
 
 #. type: Plain text
 #: chapters/02.tex:214
@@ -1883,6 +1915,9 @@ msgid ""
 "\\noindent Despite his lack of ``wisdom,'' Baker implicitly chooses to "
 "continue the tradition of making primary use of judgment data."
 msgstr ""
+"\\n"
+"oindent Apesar de sua falta de ``sabedoria\", Baker implicitamente opta por "
+"dar continuidade à tradição de fazer uso primário de dados de julgamento."
 
 #. type: Plain text
 #: chapters/02.tex:216
@@ -1895,6 +1930,14 @@ msgid ""
 "field requires (see \\citet{Sampson1975} for views along these lines). That "
 "this is not the case has been stated repeatedly and unequivocally by Chomsky:"
 msgstr ""
+"Antes de finalizar esta seção, gostaria de dar um fim a uma interpretação "
+"errônea possível que tem sido um resultado muito comum da admissão de "
+"linguistas de que julgamentos são seus dados primários. Trata-se da posição "
+"de que julgamentos de gramaticalidade são o objeto de estudo na linguística, "
+"que seu propósito é descrevê-los, e que eles portanto constituem o único "
+"tipo de dado de que a área precisa (ver em \\citet{Sampson1975} posições "
+"nessa linha). Chomsky afirmou de modo repetido e inequívoco que esse não é o "
+"caso:"
 
 #. type: quote
 #: chapters/02.tex:219
@@ -1903,6 +1946,9 @@ msgid ""
 "like saying that physics is the study of meter readings, photographs, and so "
 "on, but nobody says that. ..."
 msgstr ""
+"Dizer que a linguística é o estudo de julgamentos introspectivos seria como "
+"dizer que a física é o estudo de leituras de instrumentos de medição, "
+"fotografias e assim por diante, mas ninguém diz isso. [...]"
 
 #. type: quote
 #: chapters/02.tex:222
@@ -1912,11 +1958,15 @@ msgid ""
 "linguistic argumentation for example are more or less guided by that view. "
 "\\citep[33\\textendash{}34]{Chomsky1982}"
 msgstr ""
+"Simplesmente parece absurdo restringir a linguística ao estudo de "
+"julgamentos introspectivos, como se faz muito comumente. [...] Muitos "
+"manuais que focam na argumentação linguística, por exemplo, são mais ou "
+"menos guiados por essa visão. \\citep[33\\textendash{}34]{Chomsky1982}"
 
 #. type: section{#2}
 #: chapters/02.tex:225
 msgid "The Use of Judgment Data in Linguistic Theory"
-msgstr ""
+msgstr "O Uso de Dados de Julgamento na Teoria Linguística"
 
 #. type: Plain text
 #: chapters/02.tex:227
@@ -1926,6 +1976,11 @@ msgid ""
 "rules, it might be hard to pin down the grammatical and the ungrammatical.\\"
 "\\[-2\\baselineskip]}{\\citep{Sledd1962}}"
 msgstr ""
+"\\epigraph{\\itshape Eu não sou capaz de fazer falantes nativos se "
+"comportarem da forma que o Sr. Chomsky\\ia{Chomsky, Noam} diz que eles se "
+"comportam, e se eles insistirem em quebrar suas regras, pode ser difícil "
+"determinar o gramatical e o agramatical.\\\\[-2\\baselineskip]}{\\citep"
+"{Sledd1962}}"
 
 #. type: Plain text
 #: chapters/02.tex:229
@@ -1938,6 +1993,14 @@ msgid ""
 "graded goodness and badness decisions. The situation is characterized most "
 "poignantly by Levelt:"
 msgstr ""
+"\\n"
+"oindent O objetivo desta seção é duplo. Em primeiro lugar, quero demonstrar "
+"a afirmação, feita na \\sectref{sec:2.2}, de que problemas atuais da "
+"linguística teórica requerem dados não óbvios para sua resolução. Em "
+"segundo, e de forma correlata, quero ilustrar que o uso de julgamentos em "
+"trabalhos teóricos foi muito além de fazer distinções entre bom e ruim, ou "
+"mesmo de avaliações de bondade e ruindade. A situação é caracterizada mais "
+"incisivamente por Levelt:"
 
 #. type: quote
 #: chapters/02.tex:232
@@ -1951,6 +2014,14 @@ msgid ""
 "\\is{letting the grammar decide (on unclear cases)} This hope has vanished. "
 "\\citep[88]{LeveltEtAl1977}"
 msgstr ""
+"Nos primeiros anos da gramática transformacional [a baixa confiabilidade de "
+"julgamentos de gramaticalidade absolutos] não era um problema importante, já "
+"que `casos inequívocos', isto é, os casos de gramaticalidade e "
+"agramaticalidade consideravelmente incontroversos, eram suficientes para "
+"construir e testar a teoria linguística. Esperava-se que, por sua vez, a "
+"teoria construída de tal forma fosse deliberar sobre os `casos dúbios'.\\is"
+"{casos inequívocos!uso de}\\is{deixar a gramática decidir (em casos dúbios)} "
+"Essa esperança se dissipou. \\citep[88]{LeveltEtAl1977}"
 
 #. type: quote
 #: chapters/02.tex:234
@@ -1965,6 +2036,15 @@ msgid ""
 "importance, but rather the direct observability of which can seriously be "
 "called into question. \\citep[Vol. 2, p. 6]{Levelt1974}"
 msgstr ""
+"Aos poucos, mas de forma definitiva, ficou claro que não é possível, com "
+"base em dados incontroversos e diretamente evidentes, construir uma teoria "
+"tão abrangente que todos os casos menos óbvios podem ser decididos pela "
+"própria gramática.\\is{casos inequívocos!insuficiência de} Está se tornando "
+"cada vez mais aparente que decisões em áreas muito importantes da teoria "
+"dependem de observações muito incertas. [...] Há uma tendência a se "
+"preocupar com distinções extremamente sutis\\is{julgamentos sutis}, cuja "
+"observabilidade direta pode ser gravemente questionada, apesar de sua "
+"importância. \\citep[v. 2, p. 6]{Levelt1974}"
 
 #. type: Plain text
 #: chapters/02.tex:239
@@ -1986,6 +2066,22 @@ msgid ""
 "the implications of individual differences in grammaticality judgments and "
 "in linguistic competence."
 msgstr ""
+"A mesma reclamação foi feita ao longo de boa parte da história da gramática "
+"gerativa, por exemplo, por \\citet[348]{Bever1970a}, \\citet[191]{Labov1972a}"
+", \\citet{Langendoen1972}, \\citet{Coppieters1987} e \\citet[81]"
+"{Birdsong1989}. Eventualmente se estabeleceu um reconhecimento geral de que "
+"talvez nem todos os falantes ``da mesma língua\" tenham a mesma competência, "
+"mas isso não justifica basear a teoria somente em sentenças sobre as quais "
+"haja consenso universal, e extrapolando de alguma forma para determinar o "
+"status do restante. Em casos em que as pessoas discordam, tal fato não pode "
+"ser ignorado; a teoria deve ser capaz de descrever a competência de \\textit"
+"{cada} falante, e assim deve levar em consideração a variação onde quer que "
+"ocorra. Por isso é importante estabelecer a dimensão da convergência "
+"interfalante.\\is{variação interfalante!razões para estudar} Agora, teorias "
+"estão sendo baseadas em sentenças cujo status não é unânime, conforme "
+"discuto na \\sectref{sec:2.3.2}. Ver na \\sectref{sec:6.3.3} uma discussão "
+"aprofundada das implicações de diferenças individuais para julgamentos de "
+"gramaticalidade e para a competência linguística."
 
 #. type: Plain text
 #: chapters/02.tex:241
@@ -2002,11 +2098,23 @@ msgid ""
 "mention the details of the theoretical issues, since they are irrelevant to "
 "my purpose."
 msgstr ""
+"Infelizmente, a grande maioria dos trabalhos na linguística hoje, ao "
+"contrário dos discutidos na \\sectref{sec:1.3}, presta pouca atenção aos "
+"problemas relacionados ao uso de dados de julgamento. O que segue certamente "
+"não é uma amostra aleatória da literatura de sintaxe teórica, mas inclui "
+"alguns artigos muito influentes e amplamente citados. Meu interesse em "
+"particular não será apenas os tipos de dados de julgamento que são "
+"utilizados, e portanto as habilidades de julgamento atribuídas aos falantes "
+"nativos, mas também a importância desses julgamentos para os argumentos "
+"teóricos, isto é, em que medida os argumentos seriam minados caso os "
+"julgamentos refinados estivessem indisponíveis. Em vários casos, não "
+"mencionarei os detalhes das questões teóricas, já que são irrelevantes para "
+"o meu objetivo."
 
 #. type: subsection{#2}
 #: chapters/02.tex:243
 msgid "The Dangers of Unsystematic Data Collection"
-msgstr ""
+msgstr "Os Perigos da Coleta de Dados Não Sistemática"
 
 #. \epigraph{\itshape All too often the data in linguistic books and articles are dubious, which in turn casts doubts on the analyses. Since analyses usually build on the results of previous analyses, the effect of one set of dubious data left unquestioned can have far-reaching repercussions that are not easily perceived.\\[-2\baselineskip]}{\citep{Greenbaum1977c}}
 #. type: quote
@@ -2018,11 +2126,16 @@ msgid ""
 "data left unquestioned can have far-reaching repercussions that are not "
 "easily perceived.\\\\[-2\\baselineskip]"
 msgstr ""
+"\\itshape Com muita frequência, os dados em livros e artigos de linguística "
+"são dúbios, o que por sua vez suscita dúvidas sobre as análises. Como "
+"análises tipicamente se baseiam nos resultados de análises anteriores, o "
+"efeito de um conjunto de dados dúbios que permanece incontestado pode gerar "
+"vastas repercussões que não são facilmente percebidas.\\\\[-2\\baselineskip]"
 
 #. type: flushright
 #: chapters/02.tex:249
 msgid "\\upshape\\citep{Greenbaum1977c}"
-msgstr ""
+msgstr "\\upshape\\citep{Greenbaum1977c}"
 
 #. type: Plain text
 #: chapters/02.tex:251
@@ -2039,6 +2152,18 @@ msgid ""
 "substantial revision of the mechanisms of \\isi{Proper Government} to allow "
 "sentences like \\REF{ex:2:5}:"
 msgstr ""
+"\\n"
+"oindent Vamos começar com um caso importante em que a variação interfalante "
+"em julgamentos foi ignorada,\\is{variação interfalante!ignorar} em "
+"detrimento da teoria, antes de examinar as maneiras como julgamentos são "
+"usados por teóricos. Parece ser amplamente disseminada entre teóricos a "
+"crença de que a maioria dos dados em que suas teorias são baseadas são "
+"indiscutíveis. Mas não se pode assumir que aquilo que é um julgamento bem "
+"definido para si é óbvio para todos, ou mesmo para uma grande maioria dos "
+"falantes. Um caso é o artigo amplamente citado de \\citet{LasnikEtAl1984}. "
+"Uma das grandes propostas desse trabalho é uma revisão substancial dos "
+"mecanismos de \\isi{Proper Government} para permitir sentenças como \\REF"
+"{ex:2:5}:"
 
 #. type: Plain text
 #: chapters/02.tex:255
@@ -2046,6 +2171,10 @@ msgid ""
 "\\ea\\label{ex:2:5} Why do you think that he left? [= Lasnik \\& Saito's "
 "(99)] \\z"
 msgstr ""
+"\\ea\\label{ex:2:5} Why do you think that he left? [= Lasnik \\& Saito's (99)"
+"]\n"
+"\\glt ``Por que você acha que ele foi embora?\" [= (99) em Lasnik e Saito] \\"
+"z"
 
 #. type: Plain text
 #: chapters/02.tex:258
@@ -2062,6 +2191,20 @@ msgid ""
 "sentences will not violate the ECP, as they did in earlier theories. But are "
 "the crucial readings grammatical?"
 msgstr ""
+"\\n"
+"oindent Os autores supõem que sentenças desse tipo são ambíguas,\\is"
+"{sentença ambígua!julgando a gramaticalidade de} isto é, que \\textit{why} "
+"pode ser tomado como questionamento da razão do achar ou da razão de ter ido "
+"embora. Em geral, eles supõem que palavras \\textit{wh-} adjuntas não "
+"apresentam efeitos \\textit{that-trace}, então todas as sentenças nesse "
+"formato também deveriam ser ambíguas quando \\textit{why} é substituído por "
+"\\textit{where, when} ou \\textit{how}\\footnoteNT{(N.T.) \\textit{Por que}, "
+"\\textit{onde}, \\textit{quando} e \\textit{como}, respectivamente.}. Com "
+"base nessas suposições, eles postulam várias complicações do funcionamento "
+"do \\isi{Princípio da Categoria Vazia} (PCV)\\footnoteNT{Em inglês, \\textit"
+"{Empty Category Principle}, ou ECP.} e um processo de deleção de \\textit"
+"{that} na Forma Lógica para que as sentenças não violem o PCV, como ocorria "
+"em teorias anteriores. Mas as leituras cruciais são gramaticais?"
 
 #. type: Plain text
 #: chapters/02.tex:260
@@ -2074,6 +2217,13 @@ msgid ""
 "Anticipating reaction to the apparent data disagreement,\\is{data "
 "disagreements} they make the following comments:"
 msgstr ""
+"Em um artigo posterior, \\citet{AounEtAl1987} propõem uma teoria diferente "
+"no mesmo domínio, dessa vez com o objetivo de abarcar a \\textit"
+"{agramaticalidade} de algumas das mesmas sentenças que Lasnik e Saito se "
+"esforçaram para incluir na gramática, especificamente aquelas que possuíam "
+"\\textit{why} e \\textit{how} como palavras \\textit{wh-}. Prevendo uma "
+"reação à aparente divergência sobre dados,\\is{divergência sobre dados} "
+"fazem os seguintes comentários:"
 
 #. type: quote
 #: chapters/02.tex:263
@@ -2084,6 +2234,12 @@ msgid ""
 "the sentence, those speakers omit \\textit{that}, as if it were not "
 "perceived."
 msgstr ""
+"Alguns falantes afirmam realizar uma interpretação de oração encaixada para "
+"\\textit{why} em (51a) [\\textit{Why did she say that there are men outside}"
+"]\\footnoteNT{(N.T.) ``Por que ela disse que há homens lá fora\".} mesmo "
+"quando um complementizador está presente. No entanto, observamos que quando "
+"solicitamos que repitam a sentença, esses falantes omitem \\textit{that}, "
+"como se ele não fosse percebido."
 
 #. type: quote
 #: chapters/02.tex:267
@@ -2096,6 +2252,14 @@ msgid ""
 "rather, an analogical process is involved. (pp. 563\\textendash{}564; "
 "emphasis in original)"
 msgstr ""
+"Falantes de inglês que aceitam (51a) podem ser capazes de usar \\textit{why} "
+"referencialmente, no sentido de `for what reason'\\footnoteNT{(N.T.) ``Por "
+"que razão\".}. Mas não nos parece que a \\textit{aceitabilidade} de (51a) "
+"para tais falantes indica \\textit{gramaticalidade}, a não ser que eles "
+"também aceitem (26)\\textendash{}(28) [por exemplo, \\textit{*Who remembers "
+"what we bought why?}]\\footnoteNT{(N.T.) ``Quem se lembra do que compramos "
+"por que?\".} e afins; em vez disso, um processo analógico é envolvido. (p. "
+"563\\textendash{}564)"
 
 #. type: Plain text
 #: chapters/02.tex:270
