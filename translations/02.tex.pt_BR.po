@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-02-17 09:09+0000\n"
+"PO-Revision-Date: 2026-02-18 08:09+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/02/pt_BR/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. type: section{#2}
 #: chapters/01.tex:6 chapters/02.tex:8 chapters/02.tex:225 chapters/03.tex:5
@@ -1463,10 +1463,10 @@ msgstr ""
 "\\ea \\label{ex:2:2} \\ea The patient the nurse the clinic had hired met "
 "Jack.\n"
 "\\glt ``O paciente que o enfermeiro que a clínica havia contratado conheceu "
-"Jack.\"\n"
+"Jack\".\n"
 "\\ex The patient the nurse the clinic had hired admitted met Jack.\n"
 "\\glt ``O paciente que o enfermeiro que a clínica havia contratado internou "
-"conheceu Jack.\" \\z \\z"
+"conheceu Jack\". \\z \\z"
 
 #. type: Plain text
 #: chapters/02.tex:150
@@ -1586,7 +1586,7 @@ msgstr ""
 "\\ex[\\hspaceThis{??}]{\\hspace*{-.7mm}I, who the FBI thinks *am/*is an "
 "anarchist, will doubtless be here.}\n"
 "\\glt ``Eu, que o FBI pensa que *sou/*é um anarquista, sem dúvida estarei "
-"aqui.\" \\z \\z"
+"aqui\". \\z \\z"
 
 #. type: Plain text
 #: chapters/02.tex:176
@@ -2610,6 +2610,53 @@ msgid ""
 "left unaccounted for. Thus, we have another case of selective treatment of "
 "judgment data."
 msgstr ""
+"\\n"
+"oindent Passemos agora a examinar as diversas maneiras como julgamentos são "
+"usados na argumentação teórica, começando pelo trabalho influente de \\c"
+"itegen{BellettiEtAl1988} sobre verbos psicológicos no \\isi{italiano}. Eles "
+"visam defender que (alguns) sujeitos Experienciadores são argumentos "
+"internos subjacentes, logo, eles dependem muito da capacidade de se "
+"diagnosticar sujeitos derivados. Um critério que utilizam é a incapacidade "
+"de sujeitos derivados de ligar anáforas, que geralmente se aplica aos "
+"Experienciadores em questão. No entanto, eles admitem que no caso de "
+"anáforas não clíticas, as sentenças resultantes não são completamente ruins; "
+"eles as classificam como ``*?\" ou ``(?)\", sendo que com a última parecem "
+"querer dizer ``muito próximo de completamente aceitável\". Eles claramente "
+"consideram a falta de ruindade completa um problema importante, já que "
+"propõem uma análise para explicá-la. Apontam que construções paralelas no "
+"inglês ``são julgadas como descomunais até certo ponto\", o que "
+"aparentemente consideram como corroboração dos dados do \\isi{italiano} ao "
+"implicitamente adotarem a mesma explicação para ambos os casos. Outro "
+"correlato de características de sujeito derivadas é a impossibilidade de um "
+"\\textit{pro} arbitrário, mas novamente encontramos contextos genéricos em "
+"que o contraste com sujeitos subjacentes é ``mais fraco, mas ainda "
+"detectável\" em comparação a contextos de eventos específicos, com as "
+"sentenças previstas como ruins sendo marcadas com ``?\" ou ``??\" (nenhuma "
+"definição é dada para ``??\" em relação a ``*?\", mas em geral, pessoas "
+"parecem presumir que qualquer classificação que contenha um asterisco é pior "
+"do que uma que contenha apenas pontos de interrogação). Aqui, novamente, uma "
+"explicação é proposta por Belletti e Rizzi. Em ambos esses casos, faltando "
+"uma explicação, os fatos da marginalidade\\is{sentença marginal!tratamento "
+"teórico de} iriam comprometer os argumentos centrais de sua análise. "
+"Imediatamente na página seguinte, no entanto, uma sentença ``??\" é tratada "
+"como ruim sem qualquer discussão, e o mesmo ocorre com uma sentença marcada "
+"como ``(*)\" posteriormente\\footnote{Belletti\\ia{Belletti, Adriana} e "
+"Rizzi\\ia{Rizzi, Luigi} não esgotam as anotações possíveis. Além das cinco "
+"já mencionadas, empregam a ``*\" padrão e apresentam sentenças gramaticais "
+"sem marcação, chegando a um total de sete distinções. Mas existem outras na "
+"literatura. Observamos usos ocasionais de ``**\", por exemplo, que "
+"significam ``muito pior que uma sentença que já é bem ruim\". Conforme "
+"coloca \\citet{Hagege1981}, ``Os asteriscos também foram ampliados com "
+"outros símbolos\" (p. 137). Jim McCawley (comunicação pessoal)\\ia{McCawley, "
+"James D.} destaca que o verdadeiro problema de todas essas anotações é que "
+"linguistas comumente não as usam de maneira consistente. Por exemplo, "
+"linguistas não sabem dizer com certeza se ``*\" representa o pior ponto em "
+"uma escala de dois pontos versus uma de cinco pontos, ou um ponto "
+"intermediário.}. Por que é que algumas ocorrências de marginalidade exigem "
+"discussão enquanto outras não? Os autores muito provavelmente não possuem "
+"uma explicação para alguns casos marginais, mas sabem que leitores não "
+"ficarão frustrados se certos dados marginais forem deixados sem explicação. "
+"Assim, temos outro caso de tratamento seletivo de dados de julgamento."
 
 #. type: Plain text
 #: chapters/02.tex:308
@@ -2621,12 +2668,18 @@ msgid ""
 "application of a passivization rule, i.e., that the original sentence and "
 "its passive counterpart are equally marginal:"
 msgstr ""
+"Mais à frente, no artigo de Belletti\\ia{Belletti, Adriana} e Rizzi\\ia"
+"{Rizzi, Luigi}, encontramos uma ocorrência em que (citando \\citet"
+"{Burzio1981}) eles equiparam dois usos do ponto de interrogação, afirmando "
+"que o status marginal\\is{sentença marginal!tratamento teórico de} de uma "
+"sentença não é afetado pela aplicação de uma regra de passivização, isto é, "
+"que a sentença original e sua contraparte passiva são igualmente marginais:"
 
 #. \setcounter{itemize}{7}
 #. type: exe
 #: chapters/02.tex:317
 msgid "\\ex"
-msgstr ""
+msgstr "\\ex"
 
 #. type: xlista
 #: chapters/02.tex:317
@@ -2634,6 +2687,11 @@ msgid ""
 "\\ex[?]{John gave pictures of each other to the kids.\\newline [= Belletti "
 "\\& Rizzi's (69)]} \\ex[?]{Pictures of each other were given to the kids.}"
 msgstr ""
+"\\ex[?]{John gave pictures of each other to the kids.\\n"
+"ewline [= (69) de Belletti e Rizzi]}\n"
+"\\glt[?]``John deu fotos umas das outras para as crianças\".\n"
+"\\ex[?]{Pictures of each other were given to the kids.}\n"
+"\\glt[?]``Fotos de umas das outras foram dadas para as crianças\"."
 
 #. type: Plain text
 #: chapters/02.tex:321
@@ -2646,6 +2704,15 @@ msgid ""
 "much weaker than cases involving violations of the \\isi{Binding Theory}'' "
 "(p. 316). In the abstract, their argument takes the following form:"
 msgstr ""
+"\\n"
+"oindent Seu argumento é que os requisitos da ligação\\is{Teoria da Ligação} "
+"podem ser supridos na estrutura-D, antes do movimento passivo, então nenhuma "
+"mudança de gramaticalidade é prevista. No entanto, nos casos correspondentes "
+"do \\isi{italiano} as aparentes violações de ligação\\is{Teoria da Ligação} "
+"superficial (paralelas a (\\ref{ex:2:8}b)) são ``ligeiramente mais "
+"estranhas, [...] mas o contraste é muito mais fraco que casos envolvendo "
+"violações da \\isi{Teoria da Ligação}\" (p. 316). No resumo, seu argumento "
+"toma a seguinte forma:"
 
 #. type: quote
 #: chapters/02.tex:324
@@ -2653,12 +2720,16 @@ msgid ""
 "The difference in grammaticality between sentences A and B is significantly "
 "less than that between sentences C and D."
 msgstr ""
+"A diferença de gramaticalidade entre as sentenças A e B é significativamente "
+"menor que aquela entre as sentenças C e D."
 
 #. type: quote
 #: chapters/02.tex:326
 msgid ""
 "D constitutes a binding\\is{Binding Theory} violation, but A and C are fine."
 msgstr ""
+"D constitui uma violação de ligação\\is{Teoria da Ligação}, mas A e C são "
+"boas."
 
 #. type: quote
 #: chapters/02.tex:329
@@ -2666,6 +2737,8 @@ msgid ""
 "Therefore, B does not constitute a binding\\is{Binding Theory} violation "
 "because it is not bad enough."
 msgstr ""
+"Logo, B não constitui uma violação de ligação\\is{Teoria da Ligação} porque "
+"ela não é ruim o suficiente."
 
 #. type: Plain text
 #: chapters/02.tex:333
@@ -2675,6 +2748,11 @@ msgid ""
 "in grammaticality rating, independent of any properties of the sentences "
 "themselves. This is an assumption we ought to test."
 msgstr ""
+"\\n"
+"oindent A suposição é que todas as violações de ligação\\is{Teoria da "
+"Ligação!gravidade das violações da} (Princípio A) causam exatamente a mesma "
+"mudança em avaliação de gramaticalidade, independentemente de quaisquer "
+"propriedades das sentenças em si. Essa é uma suposição que devemos testar."
 
 #. type: Plain text
 #: chapters/02.tex:335
@@ -2691,6 +2769,18 @@ msgid ""
 "deviant''; does this mean that the notation underdifferentiates, or is the "
 "descriptive prose merely being stylistically varied?"
 msgstr ""
+"É interessante observar as descrições elaboradas que Belletti\\ia{Belletti, "
+"Adriana} e Rizzi\\ia{Rizzi, Luigi} usam para acompanhar as diversas "
+"anotações de sentenças. Sua sentença (75), marcada ``?\", é ``mais ou menos "
+"aceitável\",\\is{aceitabilidade!graus de} mas tais sentenças que recebem um "
+"ponto de interrogação ``ainda produzem uma violação fraca da condição de "
+"cadeia\". Ou seja, a sentença é ruim o suficiente que deve violar algo, e "
+"apenas precisamente ruim o suficiente para ser uma violação dessa condição, "
+"mas não deve estar violando qualquer outra coisa, ou ela teria que ser pior. "
+"Exemplos etiquetados com ``??\" são descritos variavelmente como ``bem "
+"estranhos\" e ``um pouco descomunais\"; isso significa que a notação oferece "
+"diferenciação insuficiente, ou que a descrição elaborada meramente possui "
+"estilo variado?"
 
 #. type: Plain text
 #: chapters/02.tex:338
@@ -2710,6 +2800,22 @@ msgid ""
 "a par with'' this one. That is, we must allow for judging strict equality, "
 "as well as inequality, in contrasting pairs of judgments."
 msgstr ""
+"Apesar de sua distinção entre nada menos do que sete graus de "
+"gramaticalidade,\\is{gramaticalidade!graus de} Belletti\\ia{Belletti, "
+"Adriana} e Rizzi\\ia{Rizzi, Luigi} comentam sobre algumas outras sentenças "
+"que ``esses julgamentos são extremamente sutis,\\is{julgamentos sutis} e a "
+"típica notação OK vs. * talvez não seja apropriada para a caracterização de "
+"tais contrastes. Na verdade, exemplos como (79a)\\textendash{}(80b) já são "
+"bem marcados; ainda assim, parece haver uma diferença sistemática detectável "
+"na direção indicada\" (p. 322). Agora, por algum motivo, qualquer padrão "
+"detectável requer uma explicação. Ademais, uma sentença que é ``bem "
+"marcada\" não recebe quaisquer asteriscos ou pontos de interrogação. Após "
+"propor uma explicação da diferença entre os itens com asterisco e sem "
+"asterisco, os autores em seguida afirmam haver corroboração independente "
+"dela ao sugerirem que outro contraste sutil parece estar ``em pé de "
+"igualdade com\" esse. Ou seja, devemos levar em consideração o julgamento de "
+"igualdade estrita, assim como o de desigualdade, em pares de julgamentos "
+"contrastados."
 
 #. type: Plain text
 #: chapters/02.tex:340
@@ -2733,62 +2839,85 @@ msgid ""
 "notion of relative and absolute badness of particular violations is ad hoc, "
 "and is used in just those cases where it is convenient."
 msgstr ""
+"Nesse artigo também encontramos o caso paradigmático de comparação de graus "
+"de ruindade, violações de PCV\\is{Princípio da Categoria Vazia} versus "
+"violações de Subjacência:\\is{violação de Subjacência!versus violação de "
+"PCV} ``A má formação relativamente leve de (94b) [que eles marcam com "
+"``??\"] sugere que a categoria vazia restante após a extração recebe \\textit"
+"{proper government} dentro do SN, do contrário, esses exemplos violariam o "
+"PCV, e uma inaceitabilidade mais forte seria causada\" (p. 328, nota de "
+"rodapé 22). Logo, pessoas supostamente possuem um senso absoluto de quão "
+"ruins violações do PCV são, e a sentença em questão não é ruim o suficiente "
+"para ser uma violação do PCV. Além disso, dado que violações de "
+"Subjacência\\is{violação de Subjacência} não costumam ser tão ruins quanto "
+"violações do PCV\\is{Princípio da Categoria Vazia}, essa é provavelmente uma "
+"\\isi{violação de Subjacência}. Mas não há uma teoria geral de quais "
+"princípios \\textit{deveriam} causar violações piores. A teoria não faz "
+"qualquer previsão sobre a ruindade relativa de, digamos, violações do "
+"Critério-\\textit{θ}\\is{theta@Critério-\\textit{θ}} versus violações do \\i"
+"si{Filtro do Caso}, muito menos sobre quão ruim cada uma é em algum sentido "
+"absoluto. A noção de ruindade relativa e absoluta de violações específicas é "
+"\\textit{ad hoc}, e é usada apenas nos casos em que é conveniente."
 
 #. type: subsection{#2}
 #: chapters/02.tex:356
 msgid "The Interpretation of the Annotations and Degrees of Badness"
-msgstr ""
+msgstr "A Interpretação das Anotações e Graus de Ruindade"
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "\\itshape Twinkle twinkle sentence starred,"
-msgstr ""
+msgstr "\\itshape Brilha, brilha, sentencinha,"
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "The asterisk means that you are marred."
-msgstr ""
+msgstr "O asterisco a te marcar."
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "Because of you the linguists try"
-msgstr ""
+msgstr "Por sua causa o linguistinha"
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "Inventing rules which you defy."
-msgstr ""
+msgstr "Inventa regras pra enquadrar."
 
 #. \todo{try not to have a page break within a stanza}
 #. type: flushright
 #: chapters/02.tex:356
 msgid "\\noindent\\itshape Twinkle twinkle sentence starred."
 msgstr ""
+"\\n"
+"oindent\\itshape Brilha, brilha, sentencinha"
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "From linguistics you should be barred."
-msgstr ""
+msgstr "Que queriam descartar."
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "The truth is rarely all or none,"
-msgstr ""
+msgstr "Raramente é tudo ou nada,"
 
 #. type: flushright
 #: chapters/02.tex:356
 msgid "Not even with an N of one."
-msgstr ""
+msgstr "Nem com um só exemplar."
 
 #. type: flushright
 #: chapters/02.tex:360
 msgid "\\noindent\\upshape (Peter Reich, 1980)"
 msgstr ""
+"\\n"
+"oindent\\upshape (Peter Reich, 1980)"
 
 #. type: Plain text
 #: chapters/02.tex:360
 msgid "\\ia{Reich, Peter A.}"
-msgstr ""
+msgstr "\\ia{Reich, Peter A.}"
 
 #. \textsuperscript{21}
 #. type: Plain text
@@ -2804,11 +2933,20 @@ msgid ""
 "anyone's standards.''} At the time of his writing, the asterisk seemed to "
 "have at least three possible interpretations:"
 msgstr ""
+"\\citet{Householder1973} assume o crédito e a culpa por ter originado,\\l"
+"inebreak por volta de 1958, o uso de asteriscos para marcar sentenças "
+"agramaticais.\\is{anotações!de (in)aceitabilidade}\\is{asterisco!uso "
+"original do} Ele se queixa de que uma notação outrora simples e inequívoca "
+"veio a ser usada de formas extremamente ambíguas, muitas das quais são "
+"detalhadas abaixo\\footnote{Segundo Householder, as \\is{asterisco} formas "
+"originalmente marcadas eram ``muito obviamente agramaticais segundo os "
+"padrões de todos\".}. Na época em que escreveu o artigo, o asterisco parecia "
+"ter ao menos três interpretações possíveis:"
 
 #. type: enumerate
 #: chapters/02.tex:367
 msgid "``I would never say X'';"
-msgstr ""
+msgstr "``Eu nunca diria X\";"
 
 #. type: enumerate
 #: chapters/02.tex:369
@@ -2816,6 +2954,8 @@ msgid ""
 "``I have never seen or heard a sentence of the type of X and hereby wager "
 "you can't find an example''; and"
 msgstr ""
+"``Eu nunca vi ou ouvi uma sentença do tipo X, e assim duvido que você "
+"consiga encontrar um exemplo\"; e"
 
 #. type: enumerate
 #: chapters/02.tex:371
@@ -2825,11 +2965,17 @@ msgid ""
 "would say Y instead.'' \\citep[370\\textendash{}372]"
 "{Householder1973}\\is{dialects (idiolects)}"
 msgstr ""
+"``A sentença é bem compreensível, e eu já ouvi pessoas falando ela, mas eram "
+"todas Ks [estrangeiros, Sulistas, etc.]; em vez disso, no \\textit{meu} "
+"dialeto nós falaríamos Y\". \\citep[370\\textendash{}372]{Householder1973}\\i"
+"s{dialetos (idioletos)}"
 
 #. type: Plain text
 #: chapters/02.tex:377
 msgid "\\noindent As we shall see, this is only the tip of the iceberg."
 msgstr ""
+"\\n"
+"oindent Como vamos ver, isso é apenas a ponta do iceberg."
 
 #. \textsuperscript{22}
 #. type: Plain text
