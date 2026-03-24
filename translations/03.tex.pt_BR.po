@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2025-12-02 07:00+0000\n"
-"Last-Translator: Rafael Beraldo <rberaldo@cabaladada.org>\n"
+"PO-Revision-Date: 2026-03-24 11:09+0000\n"
+"Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/03/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. type: section{#2}
 #: chapters/01.tex:6 chapters/02.tex:8 chapters/02.tex:225 chapters/03.tex:5
@@ -28,17 +28,17 @@ msgstr "Introdução"
 #: chapters/02.tex:513 chapters/03.tex:501 chapters/04.tex:432
 #: chapters/05.tex:495 chapters/06.tex:233
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #. type: chapter[#1]
 #: chapters/03.tex:2
 msgid "Judging Grammaticality"
-msgstr ""
+msgstr "Julgando a Gramaticalidade"
 
 #. type: chapter{#2}
 #: chapters/03.tex:2
 msgid "Judging Grammaticality: The Nature of Metalinguistic Performance"
-msgstr ""
+msgstr "Julgando a Gramaticalidade: A Natureza da Performance Metalinguística"
 
 #. type: Plain text
 #: chapters/03.tex:5
@@ -57,6 +57,12 @@ msgid ""
 "various experimental manipulations in the two subsequent chapters. I cite "
 "some experimental work, but also a fair amount of theoretical discussion."
 msgstr ""
+"O propósito deste capítulo é explorar algumas das qualidades básicas dos "
+"julgamentos de gramaticalidade e algumas posições atuais sobre seu status "
+"teórico, como um prelúdio da análise de estudos detalhados de seu "
+"comportamento sob diversas manipulações experimentais nos dois capítulos "
+"subsequentes. Citarei alguns trabalhos experimentais, mas também uma boa "
+"quantidade de discussão teórica."
 
 #.  54
 #.  Judging Grammaticality  55
@@ -84,11 +90,33 @@ msgid ""
 "grammaticality judgments discussed in this chapter to the low-level "
 "properties to be examined in the next two chapters."
 msgstr ""
+"A estrutura do capítulo é a seguinte. Na \\sectref{sec:3.2}, pergunto como é "
+"que conseguimos fazer pessoas avaliarem gramaticalidade, que tarefas foram "
+"inventadas para isso, e quais são seus méritos relativos. Então discuto na "
+"\\sectref{sec:3.3} esta que tem sido uma característica deveras importante e "
+"controversa dos julgamentos que resultam dessas tarefas\\schdash{}a saber, "
+"que pessoas parecem julgar gramaticalidade de forma gradativa em vez de "
+"dicotômica. Esse talvez seja o tópico mais amplamente estudado na literatura "
+"sobre julgamentos de gramaticalidade; um problema fundamental é como abordar "
+"esses julgamentos escalares de maneira \\textit{confiável}. Na \\sectref"
+"{sec:3.4}, especulo sobre como as intuições por trás de nossos julgamentos "
+"podem surgir, como uma sentença é processada para o julgamento, a medida em "
+"que o processo hipotetizado poderia refletir a gramática, e como poderíamos "
+"fazê-lo refletir isso de maneira mais transparente. A \\sectref{sec:3.5} "
+"enfrenta mais diretamente uma perspectiva que se tornou quase unânime entre "
+"psicolinguistas, de que nenhum status privilegiado pode ser concedido a "
+"dados de julgamento acima de qualquer outro tipo de dado de performance, e "
+"que portanto não podemos traçar conclusões diretas sobre a gramática a "
+"partir deles. Incontáveis pesquisadores defenderam esse ponto de diversas "
+"formas, e eu revisei as principais contribuições. Por fim, eu associo as "
+"propriedades de alto nível dos julgamentos de gramaticalidade discutidas "
+"neste capítulo às propriedades de baixo nível que serão examinadas nos "
+"próximos dois capítulos."
 
 #. type: section{#2}
 #: chapters/03.tex:15
 msgid "Tasks that Access Grammaticality"
-msgstr ""
+msgstr "Tarefas que Acessam a Gramaticalidade"
 
 #. type: Plain text
 #: chapters/03.tex:20
