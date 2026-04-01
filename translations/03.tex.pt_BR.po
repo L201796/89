@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-03-31 04:09+0000\n"
+"PO-Revision-Date: 2026-04-01 11:09+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/03/pt_BR/>\n"
@@ -608,6 +608,43 @@ msgid ""
 "presentation of the word \\textit{was} in (\\ref{ex:3:2}a), but not in "
 "(\\ref{ex:3:2}b) \\citep{OsterhoutEtAl1994}."
 msgstr ""
+"Uma técnica de avaliação de gramaticalidade mais recente que está só "
+"começando a mostrar seu potencial é a medição de potenciais cerebrais "
+"relacionados a eventos\\is{cérebro, como fonte de dados de gramaticalidade} "
+"(PREs;\\is{PREs (Potenciais Relacionados a Eventos)} ver em \\citet"
+"{Garnsey1993} uma excelente introdução ao uso dessa técnica em investigações "
+"linguísticas). Trata-se de padrões da atividade elétrica do cérebro, medidos "
+"por registros do couro cabelo durante a apresentação de estímulos, neste "
+"caso, uma apresentação visual sequencial de palavras. Leituras de "
+"eletroencefalograma são decompostas em formas de onda e categorizadas "
+"segundo a direção da mudança do potencial, positiva (P) ou negativa (N), e "
+"segundo a latência típica em milissegundos (por exemplo, 300, 400, etc.) a "
+"partir do início do estímulo. Três componentes de PREs foram associados à "
+"boa ou má formação de sentenças: N400, P300 e P600. \\citet{KutasEtAl1983} "
+"desvendaram os gatilhos de N400 usando três tipos de sentenças estímulo: "
+"sintaticamente bem formada e coerente; bem formada mas que contém uma "
+"palavra de conteúdo semanticamente anômalo; e mal formada mas semanticamente "
+"coerente, que contém disparidades de tempo verbal ou de morfemas plurais. Em "
+"todos os casos, a tarefa primária dos sujeitos era ler buscando o conteúdo, "
+"apesar de terem sido avisados de que erros poderiam aparecer. Os "
+"experimentadores observaram que anomalias semânticas suscitaram potenciais "
+"N400, mas erros gramaticais não, apesar de destacarem que estes eram "
+"consideravelmente mais sutis do que aquelas. Em um estudo posterior, \\citet"
+"{VanPettenEtAl1991} compararam sentenças anômalas bem formadas "
+"sintaticamente a sequências de palavras aleatórias e observaram que os PREs "
+"suscitados pela última palavra de cada tipo de sequência divergiram "
+"significativamente. Elas interpretaram a reação às sequências bem formadas "
+"como pertencendo à classe P300 de PREs, que ocorre em um amplo leque de "
+"tarefas, mas que aqui parecia ser associada à conclusão sintática, a "
+"percepção de que uma sentença está completa. Os P600 parecem indicar falhas "
+"temporárias de análise de constituintes, se são subsequentemente resolvidas "
+"ou não. Especificamente, ele ocorre em certas sentenças de efeito labirinto "
+"no ponto em que a análise de constituintes inicial escolhida falha, por "
+"exemplo, em \\textit{to} em (\\ref{ex:3:1}a), mas não na mesma palavra na "
+"sentença superficialmente similar que não apresenta efeito labirinto (\\ref"
+"{ex:3:1}b) \\citep{OsterhoutEtAl1992}. Também foi descoberto que um P600 "
+"ocorre diante da apresentação da palavra \\textit{was} em (\\ref{ex:3:2}a), "
+"mas não em (\\ref{ex:3:2}b) \\citep{OsterhoutEtAl1994}."
 
 #. type: Plain text
 #: chapters/03.tex:57
@@ -615,6 +652,10 @@ msgid ""
 "\\ea\\label{ex:3:1} \\ea The broker persuaded to sell the stock ...  \\ex "
 "The broker hoped to sell the stock ...  \\z \\z"
 msgstr ""
+"\\ea\\label{ex:3:1} \\ea The broker persuaded to sell the stock [...]\n"
+"\\glt ``O corretor persuadido a vender as ações [...]\"\n"
+"\\ex The broker hoped to sell the stock [...]\n"
+"\\glt ``O corretor esperava vender as ações [...]\"\\z \\z"
 
 #. type: Plain text
 #: chapters/03.tex:63
@@ -622,6 +663,10 @@ msgid ""
 "\\ea\\label{ex:3:2} \\ea The lawyer charged the defendant was lying.  \\ex "
 "The lawyer charged that the defendant was lying.  \\z \\z"
 msgstr ""
+"\\ea\\label{ex:3:2} \\ea The lawyer charged the defendant was lying.\n"
+"\\glt ``O advogado que acusou o reú estava mentindo.\"\n"
+"\\ex The lawyer charged that the defendant was lying.\n"
+"\\glt ``O advogado alegou que o réu estava mentindo.\" \\z \\z"
 
 #. type: Plain text
 #: chapters/03.tex:67
@@ -637,6 +682,17 @@ msgid ""
 "of ungrammaticality (See \\sectref{sec:7.2} for a description of a promising "
 "study.)"
 msgstr ""
+"\\n"
+"oindent De preferência, também poderíamos esperar encontrar um PRE\\is{PREs "
+"(Potenciais Relacionados a Eventos)} correlato de violações gramaticais "
+"verdadeiras, não somente temporárias, de forma que julgamentos explícitos "
+"pudessem ser verificados independentemente, mas na prática esse caminho não "
+"será tão direto. Experimentos de PREs não são apenas caros e difíceis de "
+"conduzir, exigindo condições de leitura muito cuidadosamente controladas e "
+"não naturais, mas a interpretação dos resultados também não é direta. Ainda "
+"assim, podemos esperar que algum dia o estudo de PREs nos ajude a "
+"desembaraçar diversas fontes dos julgamentos de agramaticalidade (ver na \\s"
+"ectref{sec:7.2} uma descrição de um estudo promissor)."
 
 #. \textsuperscript{4}
 #. type: Plain text
@@ -698,16 +754,77 @@ msgid ""
 "one believes that linguistic competence is separate from production and "
 "comprehension mechanisms, a question I take up again in \\chapref{sec:6}."
 msgstr ""
+"Obviamente, há muitas perguntas importantes sobre as relações entre a "
+"performance em tarefas metalinguísticas\\is{performance metalinguística "
+"(habilidades)!versus competência} do tipo que estamos levando em conta, a "
+"performance linguística comum\\is{performance metalinguística (habilidades)"
+"!versus performance linguística primária} e a competência,\\is{competência "
+"(gramatical)!versus performance} muitas delas são debatidas nas seções \\ref"
+"{sec:3.4} e \\ref{sec:3.5} abaixo (muitos dos autores que eu cito nessas "
+"seções interpretam a área da performance metalinguística de forma ainda mais "
+"ampla do que minha concepção nesta seção, e incluem tarefas que não têm "
+"relação com a gramaticalidade, mas acredito que suas discussões se apliquem "
+"igualmente bem ao nosso domínio). Não é claro sequer se deveríamos falar "
+"sobre indicadores metalinguísticos como um todo, porque há um debate "
+"considerável sobre a habilidade metalinguística ser ou não um fenômeno "
+"unitário. Da perpectiva do desenvolvimento, \\citet{Hakes1980} defende que "
+"ela é; já em uma perpectiva intercultural, \\citet{ScribnerEtAl1981} "
+"defendem que ela não é, porque falantes que vão bem em uma tarefa "
+"frequentemente vão mal em outra (ver a \\sectref{sec:3.5}, e também a \\s"
+"ectref{sec:4.4.2}, a respeito da última). \\citet{Birdsong1989} vê a "
+"performance metalinguística como uma \\textit{coleção} de \\textit"
+"{habilidades},\\is{performance metalinguística (habilidades)!como "
+"comportamento especializado} defendendo que ela apresenta três "
+"características de comportamentos especializados: há diferenças na "
+"quantidade e tipos de habilidades que indivíduos possuem; há diferenças no "
+"grau em que indivíduos demonstram uma determinada habilidade; e as "
+"habilidades tendem a ser aprimoradas com a prática ou treino. Encaminho o "
+"leitor a \\citet[51\\textendash{}54]{Birdsong1989} para ver evidências "
+"detalhadas de cada um desses pontos, que são um tanto controversos (nem "
+"todas as evidências de Birdsong\\ia{Birdsong, David} vêm de julgamentos). "
+"Dentro do escopo deste livro, o trabalho de Scribner e Cole diz respeito às "
+"duas primeiras características do comportamento especializado, e diferenças "
+"entre linguistas e não linguistas (ver \\sectref{sec:4.4.1}) dizem respeito "
+"à terceira. Se a perspectiva de Birdsong\\ia{Birdsong, David} estiver mais "
+"ou menos correta, então podemos esperar que essas habilidades façam suas "
+"próprias contribuições aos resultados de aceitabilidade, separadamente das "
+"contribuições da competência linguística. Entrelaçado com esses problemas, "
+"temos a pergunta mais profunda sobre estarmos realmente interessados ou não "
+"em quais formas as pessoas de fato utilizam, em contraste ao que afirmam "
+"usar, ou ao que elas aceitam passivamente. Sabemos que o uso de uma "
+"construção não implica aceitação e vice-versa \\citep{Greenbaum1976a}, e "
+"sociolinguistas sabem há muito tempo que falantes podem negar que utilizam "
+"formas que na verdade utilizam frequentemente na fala cotidiana. Como "
+"demonstra \\citet{Labov1975}, esse fenômeno nem sequer é limitado a "
+"variáveis socialmente significativas. Ele descreve diversos sujeitos que "
+"fizeram uso positivo de \\textit{anymore}\\is{\\textit{anymore}, uso "
+"positivo de@\\textit{anymore}, uso positivo de} em conversas gravadas, no "
+"entanto, quando questionados diretamente, eles afirmam nunca ter ouvido tal "
+"uso, sentiam que não se tratava da língua inglesa, interpretaram "
+"incorretamente seu significado e apresentaram outros sinais de desconcerto. "
+"Labov\\ia{Labov, William} aponta que ``isso nos coloca na posição "
+"relativamente embaraçosa de saber mais sobre a gramática de um falante do "
+"que ele mesmo sabe\" (p. 35) (\\citet{HindleEtAl1975} oferecem anedotas "
+"parecidas). Diversas tarefas metalinguísticas vão refletir os três tipos de "
+"sentenças\\schdash{}aquelas utilizadas de fato, aquelas que afirmam utilizar "
+"e aquelas que são aceitas\\schdash{}em diferentes graus\\footnote{Por "
+"exemplo, \\citet{HindleEtAl1975} apresentam evidências anedóticas que "
+"sugerem que a tarefa de julgamento apresenta um viés de rejeições incorretas "
+"em vez de aceitações incorretas, isto é, favorecendo avaliações menores do "
+"que seria merecido, segundo medidas de uso real dos falantes.}. Qual "
+"conjunto é mais relevante pode depender de considerarmos a competência "
+"linguística de forma separada de mecanismos de produção e compreensão, "
+"pergunta que retomo no \\chapref{sec:6}."
 
 #. type: section{#2}
 #: chapters/03.tex:75
 msgid "The Nature of Graded Judgments"
-msgstr ""
+msgstr "A Natureza de Julgamentos Gradativos"
 
 #. type: subsection{#2}
 #: chapters/03.tex:75
 msgid "Is Grammaticality Dichotomous?"
-msgstr ""
+msgstr "A Gramaticalidade é Dicotômica?"
 
 #. type: Plain text
 #: chapters/03.tex:77
@@ -742,6 +859,37 @@ msgid ""
 "in turn, before surveying the experimental literature to see to what extent "
 "each gains empirical support."
 msgstr ""
+"\\is{gramaticalidade!dicotômica versus escalar}A seguinte passagem, de R. \\c"
+"itet{Lakoff1977}, provavelmente reflete as crenças da maioria dos linguistas "
+"principiantes a respeito do possível status gramatical de sentenças: ``Era "
+"tentador acreditar que marcadores linguísticos, como outros animais, vinham "
+"em pares, e portanto era natural supor que a gramaticalidade fosse uma "
+"questão de tudo ou nada. [...] Esse nos parecia ser o jeito que as coisas "
+"deveriam ser em um universo bem ordenado, e ainda éramos capazes de "
+"acreditar, com nossa cativante fé infantil, que o universo linguístico era "
+"bem ordenado\" (p. 73). Apesar da aparente desilusão de Lakoff\\ia{Lakoff, "
+"George}, muitos linguistas têm tentado sustentar o princípio de que a "
+"gramaticalidade é uma noção dicotômica: ``Em geral, então, se encontrarmos "
+"contrastes em escala contínua nos arredores do que temos certeza de ser uma "
+"língua, excluímos eles da língua\" \\citep[17]{Hockett1955}; ``Graças a uma "
+"vigorosa liderança e a uma adesão disposta, a doutrina da descontinuidade "
+"alcançou sua aceitação mais ampla entre os estudiosos americanos\" \\citep[2]"
+"{Bolinger1961}. Pelo outro lado, é evidente que julgamentos de "
+"gramaticalidade apresentam mais gradações,\\is{gramaticalidade!graus de} e "
+"em diversos casos estas representam fenômenos genuínos com múltiplos valores "
+"(ver abaixo). Até mesmo em um trabalho tão inaugural quanto \\textit{LSLT}, "
+"Chomsky\\ia{Chomsky, Noam} afirma que ``há poucas dúvidas sobre falantes "
+"serem capazes de ordenar novos enunciados, nunca ouvidos anteriormente, "
+"segundo seu grau de `pertencimento' à língua de forma razoavelmente "
+"consistente\" (p. 132). Como podemos conciliar julgamentos escalares com uma "
+"dicotomia subjacente? Será que a gramática atribui graus de status a "
+"sequências no fim das contas, e os julgamentos simplesmente refletem eles? "
+"Ou será que o processo de julgamento em si converte uma gramaticalidade "
+"binária em aceitabilidade escalar ao incorporar variáveis comportamentais? "
+"Ambas perspectivas foram defendidas na literatura, junto de uma terceira "
+"posição intermediária. Vamos discutir cada uma delas por sua vez, antes de "
+"examinar a literatura experimental para ver em que medida cada uma é "
+"sustentada empiricamente."
 
 #. type: Plain text
 #: chapters/03.tex:79
@@ -756,11 +904,20 @@ msgid ""
 "\\citet{Lakoff1973} summarizes the conclusions of this line of research as "
 "follows:"
 msgstr ""
+"Os mais conhecidos proponentes da perspectiva de que a gramaticalidade "
+"ocorre em um contínuo\\is{gramaticalidade!graus de} são Haj Ross,\\ia{Ross, "
+"John Robert} George Lakoff\\ia{Lakoff, George} e seus seguidores no fim da "
+"década de 1960 e início da década de 1970. Ross\\ia{Ross, John Robert} (\\c"
+"iteyear{Ross1972}, por exemplo) usou o termo \\textit{squish}\\is{squish} "
+"para se referir a um contínuo de gramaticalidade em relação a uma construção "
+"específica (ver em \\citet{HindleEtAl1975} mais sobre \\textit{squishes}\\is"
+"{squish}). \\citet{Lakoff1973} resume as conclusões dessa linha de pesquisa "
+"assim:"
 
 #. type: item[#1]
 #: chapters/03.tex:83
 msgid "(i)"
-msgstr ""
+msgstr "(i)"
 
 #. type: itemize
 #: chapters/03.tex:83
@@ -768,12 +925,14 @@ msgid ""
 "Rules of grammar do not simply apply or fail to apply; rather they apply to "
 "a degree."
 msgstr ""
+"As regras da gramática não simplesmente são aplicadas ou deixam de ser "
+"aplicadas; ao contrário, são aplicadas em graus."
 
 #.  Judging Grammaticality  63
 #. type: item[#1]
 #: chapters/03.tex:86
 msgid "(ii)"
-msgstr ""
+msgstr "(ii)"
 
 #. type: itemize
 #: chapters/03.tex:86
@@ -781,11 +940,13 @@ msgid ""
 "Grammatical elements are not simply members or nonmembers of grammatical "
 "categories; rather they are members to a degree."
 msgstr ""
+"Elementos gramaticais não são simplemesnte membros ou não membros de "
+"categorias gramaticais; ao contrário, são membros em certo grau."
 
 #. type: item[#1]
 #: chapters/03.tex:88
 msgid "(iii)"
-msgstr ""
+msgstr "(iii)"
 
 #. type: itemize
 #: chapters/03.tex:88
@@ -793,11 +954,13 @@ msgid ""
 "Grammatical constructions are not simply islands or non-is\\-lands;"
 "\\linebreak rather they may be islands to a degree.\\is{islands (syntactic)}"
 msgstr ""
+"Construções gramaticais não são simplesmente ilhas ou não ilhas;\\linebreak "
+"ao contrário, elas podem ser ilhas em certo grau.\\is{ilhas (sintáticas)}"
 
 #. type: item[#1]
 #: chapters/03.tex:90
 msgid "(iv)"
-msgstr ""
+msgstr "(iv)"
 
 #. type: itemize
 #: chapters/03.tex:90
@@ -805,11 +968,13 @@ msgid ""
 "Grammatical constructions are not simply environments or non-envi\\-ron\\-"
 "ments for rules; rather they may be environments to a degree."
 msgstr ""
+"Construções gramaticais não são simplesmentes ambientesou não ambientes para "
+"regras; ao contrário, elas podem ser ambientes em certo grau."
 
 #. type: item[#1]
 #: chapters/03.tex:92
 msgid "(v)"
-msgstr ""
+msgstr "(v)"
 
 #. type: itemize
 #: chapters/03.tex:92
@@ -817,11 +982,13 @@ msgid ""
 "Grammatical phenomena form hierarchies which are largely constant from "
 "speaker to speaker, and in many cases, from language to language."
 msgstr ""
+"Fenômenos gramaticais formam hierarquias que são constantes em grande medida "
+"de falante para falante, e em muitos casos, de língua para língua."
 
 #. type: item[#1]
 #: chapters/03.tex:94
 msgid "(vi)"
-msgstr ""
+msgstr "(vi)"
 
 #. type: itemize
 #: chapters/03.tex:94
@@ -829,6 +996,8 @@ msgid ""
 "Different speakers (and different languages) will have different "
 "acceptability thresholds along these hierarchies.  (p. 271)"
 msgstr ""
+"Diferentes falantes (e diferentes línguas) terão diferentes limiares de "
+"aceitabilidade conforme essas hierarquias. (p. 271)"
 
 #. type: Plain text
 #: chapters/03.tex:100
