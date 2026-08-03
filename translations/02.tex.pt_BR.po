@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-05-06 03:11+0000\n"
+"PO-Revision-Date: 2026-08-04 09:01+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/02/pt_BR/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1\n"
+"X-Generator: Weblate 2026.8.1.dev0\n"
 
 #. type: section{#2}
 #: chapters/01.tex:6 chapters/02.tex:8 chapters/02.tex:225 chapters/03.tex:5
@@ -1490,10 +1490,10 @@ msgid ""
 msgstr ""
 "\\ea\\label{ex:2:3} \\ea[ ]{\\hspace*{-.7mm}the guy who they don't know "
 "whether he wants to come or not}\n"
-"\\glt ``o rapaz que eles não sabem se ele quer vir ou não\"\n"
+"\\glt ``o rapaz que eles não sabem se ele quer vir ou não\".\n"
 "\\ex[*]{\\hspace*{-.7mm}the guy who they don't know whether wants to come or "
 "not}\n"
-"\\glt ``o rapaz que eles não sabem se quer vir ou não\" \\z \\z"
+"\\glt ``o rapaz que eles não sabem se quer vir ou não\".\\z \\z"
 
 #. type: Plain text
 #: chapters/02.tex:160
@@ -1581,7 +1581,7 @@ msgid ""
 msgstr ""
 "\\ea\\label{ex:2:4} \\ea[??]{\\hspace*{-.7mm}Are/??Is John or his parents "
 "here?} \\judgewidth{??}\n"
-"\\glt ``John ou seus pais ??está/??estão aqui?\"\n"
+"\\glt ``John ou seus pais ??está/??estão aqui?\".\n"
 "\\ex[\\hspaceThis{??}]{\\hspace*{-.7mm}I, who the FBI thinks *am/*is an "
 "anarchist, will doubtless be here.}\n"
 "\\glt ``Eu, que o FBI pensa que *sou/*é um anarquista, sem dúvida estarei "
@@ -2202,7 +2202,7 @@ msgid ""
 msgstr ""
 "\\ea\\label{ex:2:5} Why do you think that he left? [= (99) de Lasnik e "
 "Saito]\n"
-"\\glt ``Por que você acha que ele foi embora?\" \\z"
+"\\glt ``Por que você acha que ele foi embora?\".\\z"
 
 #. type: Plain text
 #: chapters/02.tex:258
@@ -2403,7 +2403,7 @@ msgid ""
 msgstr ""
 "\\ea[*]{\\hspace*{-.7mm}Who did you say that kissed Harriet? [= (1) de "
 "Sobin]}\\label{ex:2:6}\n"
-"\\glt``Quem você disse que beijou Harriet?\"\\z"
+"\\glt``Quem você disse que beijou Harriet?\".\\z"
 
 #. type: Plain text
 #: chapters/02.tex:281
@@ -2413,7 +2413,7 @@ msgid ""
 msgstr ""
 "\\ea[*]{\\hspace*{-.7mm}Who did you ask whether loves Mary? [= (4) de Sobin]}"
 "\\label{ex:2:7}\n"
-"\\glt``Quem você perguntou se ama Mary?\"\\z"
+"\\glt``Quem você perguntou se ama Mary?\".\\z"
 
 #. \textsuperscript{17}
 #. \textsuperscript{18}
@@ -3300,7 +3300,7 @@ msgid ""
 msgstr ""
 "\\ea[?]{\\hspace*{-.7mm}Which paper did you read before filing? [= (1) de "
 "Browning]}\\label{ex:2:11}\n"
-"\\glt ``Qual artigo você leu antes de arquivar?\" \\z"
+"\\glt ``Qual artigo você leu antes de arquivar?\".\\z"
 
 #. type: Plain text
 #: chapters/02.tex:435
@@ -3310,7 +3310,7 @@ msgid ""
 msgstr ""
 "\\ea[?]{\\hspace*{-.7mm}an artist that close friends of admire [= (2) de "
 "Browning]}\\label{ex:2:12}\n"
-"\\glt ``um artista que os amigos próximos admiram\" \\z"
+"\\glt ``um artista que os amigos próximos admiram\".\\z"
 
 #. type: Plain text
 #: chapters/02.tex:444
@@ -3321,10 +3321,10 @@ msgid ""
 msgstr ""
 "\\ea \\label{ex:2:13} \\ea Which car is it time for John to wash? [= (40) de "
 "Browning] \\glt ``Qual carro é hora de John lavar?\".\\ex Who did John buy a "
-"suit to impress? \\glt ``Quem John comprou um terno para impressionar?\" \\e"
+"suit to impress? \\glt ``Quem John comprou um terno para impressionar?\". \\e"
 "x What did John wonder how to fix? \\glt ``O que John se perguntou como "
-"consertar?\" \\ex Who did they leave before meeting? \\glt ``Quem eles "
-"deixaram antes de encontrar?\" \\z \\z"
+"consertar?\". \\ex Who did they leave before meeting? \\glt ``Quem eles "
+"deixaram antes de encontrar?\". \\z \\z"
 
 #. type: quote
 #: chapters/02.tex:448
