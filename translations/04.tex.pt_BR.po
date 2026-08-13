@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-03-24 11:09+0000\n"
+"PO-Revision-Date: 2026-08-14 08:51+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/04/pt_BR/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #. type: section{#2}
 #: chapters/01.tex:6 chapters/02.tex:8 chapters/02.tex:225 chapters/03.tex:5
@@ -33,7 +33,7 @@ msgstr "Conclusão"
 #. type: chapter{#2}
 #: chapters/04.tex:2
 msgid "Subject-Related Factors in Grammaticality Judgments"
-msgstr ""
+msgstr "Fatores Relacionados ao Sujeito em Julgamentos de Gramaticalidade"
 
 #. type: Plain text
 #: chapters/04.tex:4
@@ -44,6 +44,10 @@ msgid ""
 "coming to terms with such realities.\\\\[-2\\baselineskip]}"
 "{\\citep{Fillmore1979}}"
 msgstr ""
+"\\epigraph{\\itshape Falantes inusitadamente discordam entre si a respeito "
+"do que é gramatical em sua língua; algumas das causas primordiais de "
+"sofrimento e contestação dentro da linguística gerativa têm sido as formas "
+"de lidar com tais realidades\\.\\\\[-2\\baselineskip]}{\\citep{Fillmore1979}}"
 
 #. type: Plain text
 #: chapters/04.tex:8
@@ -69,6 +73,28 @@ msgid ""
 "grammars or in some other module that affects grammaticality judgments. The "
 "implications of these various possibilities are taken up in \\chapref{sec:6}."
 msgstr ""
+"A despeito de sua composição genética em comum, seres humanos apresentam "
+"diferenças individuais em quase todos os aspectos do comportamento. Não "
+"deveria ser surpreendente descobrir que intuições linguísticas não são uma "
+"exceção. A pergunta central que abordo neste capítulo é a medida em que "
+"diferenças em intuições linguísticas são atribuíveis a diferenças em "
+"propriedades do organismo ou em suas experiências de vida. Em alguns casos, "
+"existem algumas características segundo as quais as pessoas diferem que "
+"contribuem de forma bem transparente para seus julgamentos de "
+"gramaticalidade, e para o comportamento linguístico em geral, ao passo que "
+"em outros casos a conexão ainda é surpreendentemente pouco compreendida. Ao "
+"longo do capítulo, um tema fundamental é a consistência,\\is{consistência "
+"(entre e intrafalante)} ou a medida em que o mesmo sujeito dá a mesma nota a "
+"uma sentença em ocasiões diferentes, ou em que diferentes sujeitos dão a "
+"mesma nota a uma sentença. No primeiro caso, inconsistências são "
+"possivelmente o resultado de fatores que nada têm a ver com as "
+"representações linguísticas do sujeito, como estarem cansados ou "
+"descansados, pouco cooperativos, atentos ou distraídos, etc. \\citep"
+"{BradacEtAl1980}. No segundo caso, diferenças interfalante podem ser "
+"atribuídas a diferenças em propriedades mais profundas das mentes das "
+"pessoas em questão, em suas gramáticas ou em algum outro módulo que afeta "
+"julgamentos de gramaticalidade. As implicações dessas diversas "
+"possibilidades são discutidas no \\chapref{sec:6}."
 
 #. type: Plain text
 #: chapters/04.tex:13
@@ -102,11 +128,39 @@ msgid ""
 "concludes the chapter by summarizing the findings and using them to motivate "
 "the investigations of \\chapref{sec:5}."
 msgstr ""
+"Abro este capítulo com três estudos importantes que examinaram "
+"quantitativamente as diferenças individuais em julgamentos de "
+"gramaticalidade (\\sectref{sec:4.2}). A quantidade de variação encontrada "
+"ali justifica uma busca por fatores sistemáticos que possam explicar parte "
+"dela. Na \\sectref{sec:4.3}, analiso fatores organísmicos nesse quesito. "
+"Dois desses fatores foram estudados exaustivamente: a dependência de campo, "
+"um conceito da literatura sobre personalidade (\\sectref{sec:4.3.1}), e a "
+"lateralidade,\\is{lateralidade, efeito sobre a linguagem} que parece ser um "
+"indicador importante de estruturas linguísticas no cérebro (\\sectref"
+"{sec:4.3.2}). Alguns outros fatores, como idade, sexo e capacidade cognitiva "
+"geral, parecem ser candidatos óbvios, mas receberam pouca ou nenhuma atenção "
+"na literatura, então discuto eles apenas brevemente na \\sectref{sec:4.3.3}. "
+"A \\sectref{sec:4.4} foca em características da experiência do indivíduo. A "
+"mais controversa e discutida delas é o treinamento linguístico. Inumeráveis "
+"críticos da empreitada linguística montaram sua defesa com base no fato de "
+"linguistas serem seus próprios falantes-consultantes. Analiso uma série de "
+"estudos que tentaram estabelecer se linguistas são fontes adequadas de dados "
+"de julgamento de gramaticalidade (\\sectref{sec:4.4.1}). Uma fonte de "
+"variação em capacidade de julgamento menos estudada, mas muito intrigante, "
+"pode ser a extensão da alfabetização e da escolarização em geral\\is"
+"{educação, efeito sobre a linguagem} recebidas por uma pessoa. Investigações "
+"sobre culturas remotas são a principal fonte de evidências a respeito desse "
+"tema (\\sectref{sec:4.4.2}). Concluo a seção discutindo uma caixa de fatores "
+"experienciais sortidos, como a quantidade de exposição que o falante teve a "
+"uma língua (por exemplo, um falante quase nativo versus um falante nativo) e "
+"o conhecimento de mundo acumulado (\\sectref{sec:4.4.3}). A \\sectref"
+"{sec:4.5} conclui o capítulo resumindo os resultados e usando eles para "
+"motivar as investigações do \\chapref{sec:5}."
 
 #. type: section{#2}
 #: chapters/04.tex:15
 msgid "Individual Differences: Three Representative Studies"
-msgstr ""
+msgstr "Diferenças Individuais: Três Estudos Representativos"
 
 #. type: Plain text
 #: chapters/04.tex:17
@@ -115,6 +169,9 @@ msgid ""
 "expected to agree with a given writer's placement of asterisks.\\\\"
 "[-2\\baselineskip]}{\\citep{Neubauer1976}}"
 msgstr ""
+"\\epigraph{\\itshape Como de costume, vale lembrar que não se espera "
+"realmente que um dado leitor concorde com as colocações de asteriscos de um "
+"dado autor.\\\\[-2\\baselineskip]}{\\citep{Neubauer1976}}"
 
 #. \originalpage{100} %  Chapter Four
 #. type: Plain text
