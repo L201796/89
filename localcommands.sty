@@ -33,3 +33,25 @@
 % Chomsky citation comamnds
 \newcommand{\aspects}[1]{\textit{Aspects}: #1\nocite{Chomsky1965}}
 \newcommand{\aspectsq}{\textit{Aspects}\nocite{Chomsky1965}\xspace}
+
+% command for translation footnotes
+\newcommand{\footnoteNT}[1]{%
+	\refstepcounter{translationnote}%
+	\textsuperscript{{\roman{translationnote}}}%
+	\begingroup
+	\renewcommand\thefootnote{\roman{translationnote}}%
+	\renewcommand\thempfootnote{\roman{translationnote}}%
+	\footnotetext[\value{translationnote}]{(N.T.) #1}%
+	\endgroup
+}
+
+% command for citing translated works quoted in the book
+\newcommand{\footnoteRT}[1]{%
+	\refstepcounter{translationnote}%
+	\textsuperscript{{\roman{translationnote}}}%
+	\begingroup
+	\renewcommand\thefootnote{\roman{translationnote}}%
+	\renewcommand\thempfootnote{\roman{translationnote}}%
+	\footnotetext[\value{translationnote}]{(R.T.) #1}%
+	\endgroup
+}
