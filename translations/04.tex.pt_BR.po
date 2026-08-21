@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-08-19 06:51+0000\n"
+"PO-Revision-Date: 2026-08-21 11:52+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/04/pt_BR/>\n"
@@ -667,11 +667,30 @@ msgid ""
 "subjects!examples of} for such experiments, I present Ross's\\ia{Ross, John "
 "Robert} description of the rating scale as it appeared on his questionnaire:"
 msgstr ""
+"O terceiro dos nossos exemplos de estudos talvez seja o mais amplamente "
+"citado estudo sobre diferenças individuais em julgamentos de "
+"gramaticalidade, de autoria de \\citet{Ross1979}. Ross\\ia{Ross, John "
+"Robert} pediu que 30 sujeitos avaliassem a gramaticalidade de 12 sentenças "
+"em uma escala de 1 a 4, e eliciou suas percepções desses julgamentos\\f"
+"ootnote{Na verdade, havia 13 sentenças em seu questionário, sendo que uma "
+"delas era voltada à semântica de \\textit{barely} e \\textit{scarcely}\\f"
+"ootnoteNT{\\textit{Apenas} ou \\textit{mal}, conforme o exemplo 11 de \\citet"
+"{Ross1979} que traduzimos: We have \\{barely/scarcely\\} \\$500 in our "
+"account (p. 162), ``Mal temos \\$500 na nossa conta\".}, e não rendeu "
+"resultados comparáveis aos das outras sentenças.}. Especificamente, os "
+"sujeitos foram instruídos a declarar quão confiantes estavam em cada "
+"julgamento (bem seguro, mais ou menos, ou bem inseguro), e como achavam que "
+"seus julgamentos poderiam ser posicionados em relação aos julgamentos da "
+"maioria dos falantes (liberais, conservadores ou no meio do caminho). Já que "
+"estou particularmente preocupado com o desenho das instruções\\is{instruções "
+"para sujeitos!exemplos de} de tais experimentos, apresento a descrição de "
+"Ross\\ia{Ross, John Robert} da escala de avaliação da maneira que ela "
+"apareceu em seu questionário:"
 
 #. type: enumerate
 #: chapters/04.tex:84
 msgid "The sentence sounds perfect. You would use it without hesitation."
-msgstr ""
+msgstr "A sentença soa perfeita. Você a usaria sem hesitar."
 
 #. type: enumerate
 #: chapters/04.tex:84
@@ -680,6 +699,9 @@ msgid ""
 "feel comfortable. Maybe lots of people could say it, but you never feel "
 "quite comfortable with it."
 msgstr ""
+"A sentença não é perfeita\\schdash{}alguma coisa nela é simplesmente "
+"desconfortável. Talvez muitas pessoas poderiam falar isso, mas você nunca se "
+"sente exatamente confortável com ela."
 
 #. type: enumerate
 #: chapters/04.tex:84
@@ -687,6 +709,9 @@ msgid ""
 "Worse than 2, but not completely impossible. Maybe somebody might use the "
 "sentence, but certainly not you. The sentence is almost beyond hope."
 msgstr ""
+"Pior do que a opção 2, mas não completamente impossível. Talvez alguém "
+"usaria a sentença, mas você com certeza não usaria. Quase não há salvação "
+"para a sentença."
 
 #. type: enumerate
 #: chapters/04.tex:84
@@ -694,6 +719,8 @@ msgid ""
 "The sentence is absolutely out. Impossible to understand, nobody would say "
 "it. Un-English. (p. 161)"
 msgstr ""
+"A sentença está absolutamente eliminada. Impossível de se entender, ninguém "
+"diria isso. Não é inglês. (p. 161)"
 
 #. type: Plain text
 #: chapters/04.tex:87
@@ -702,6 +729,11 @@ msgid ""
 "the instructions are quite explicit regarding differentiation of the levels, "
 "but give little indication of what counts as a criterion for grammaticality."
 msgstr ""
+"\\n"
+"oindent Repare a referência à inteligibilidade no item 4. Em geral, as "
+"instruções são bem explícitas no que diz respeito à diferenciação entre os "
+"níveis, mas dão pouca indicação do que conta como critério de "
+"gramaticalidade."
 
 #. \textsuperscript{6}
 #. \textsuperscript{7}
@@ -726,6 +758,25 @@ msgid ""
 "computation instead. Thus, in his ordered list, the third and fourth "
 "sentences are transposed.)"
 msgstr ""
+"Por admissão própria, Ross tinha a intenção de usar esse experimento apenas "
+"como um estudo piloto. Como ele reconhece, sua apresentação dos resultados "
+"mostra que não possuía qualquer conhecimento de estatística. Em vez disso, "
+"ele inventa suas próprias medidas numéricas para avaliar variabilidade, "
+"covariação, etc., e apresenta diversas tabelas longas de dados brutos\\f"
+"ootnote{Outro problema de interpretação em potencial é que 8 de seus 30 "
+"sujeitos eram falantes não nativos de inglês.}. Apesar de essas "
+"insuficiências tornarem a leitura do artigo tediosa e os resultados difíceis "
+"de se interpretar, pelo menos seus dados brutos poderiam ser usados para "
+"conduzir análises estatísticas apropriadas. Vou relatar apenas os resultados "
+"mais óbvios, levando em conta que nenhum deles deveria ser encarado como "
+"conclusivo. Primeiramente, apresento as sentenças utilizadas no "
+"questionário, com suas notas médias na escala de 1\\textendash{}4 (Ross não "
+"calculou notas médias, mas computou uma pontuação geral ponderando o número "
+"de sujeitos que assinalaram cada uma das quatro respostas, tratando a "
+"escala, na prática, como se estivesse centrada em um ponto zero. Já que sua "
+"fórmula é arbitrária e infundada, usarei o cálculo padrão em seu lugar. "
+"Assim, em sua lista ordenada, a terceira e quarta sentenças aparecem "
+"invertidas)."
 
 #. type: footnote{#2}
 #: chapters/04.tex:93
@@ -734,151 +785,180 @@ msgid ""
 "the basis of multiple judgments on a graded scale has arisen in many other "
 "studies as well. Standard deviations should probably be reported."
 msgstr ""
+"O problema geral de como criar uma única nota para uma sentença com base em "
+"múltiplos julgamentos em uma escala gradativa foi levantado em diversos "
+"outros estudos também. Desvios padrão provavelmente deveriam ser relatados."
 
 #. type: resizebox{#3}
 #: chapters/04.tex:132
 msgid "\\noindent"
 msgstr ""
+"\\n"
+"oindent"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "\\multirow{2}{*}{}"
-msgstr ""
+msgstr "\\multirow{2}{*}{}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "The doctor is sure that there will be no problems."
 msgstr ""
+"\\shortstack{The doctor is sure that there will be no problems.\\\\``O "
+"médico tem certeza de que não haverá problemas\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "1.07"
-msgstr ""
+msgstr "1.07"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "\\rdelim]{2}{2cm}[\\textit{Core}]"
-msgstr ""
+msgstr "\\rdelim]{2}{2cm}[\\textit{Núcleo}]"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "Under no circumstances would I accept that offer."
 msgstr ""
+"\\shortstack{Under no circumstances would I accept that offer.\\\\``Eu não "
+"aceitaria aquela proposta em nenhuma circunstância\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "1.23"
-msgstr ""
+msgstr "1.23"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "\\multirow{8}{*}{}"
-msgstr ""
+msgstr "\\multirow{8}{*}{}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "We don't believe the claim that Jimson ever had any money."
 msgstr ""
+"\\shortstack{We don't believe the claim that Jimson ever had any money.\\\\"
+"``Nós não acreditamos na alegação de Jimson tenha tido dinheiro algum dia\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "1.63"
-msgstr ""
+msgstr "1.63"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "\\rdelim]{8}{2cm}[\\textit{Bog}]"
-msgstr ""
+msgstr "\\rdelim]{8}{2cm}[\\textit{Pântano}]"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "That is a frequently talked about proposal."
 msgstr ""
+"\\shortstack{That is a frequently talked about proposal.\\\\``Essa é uma "
+"proposta frequentemente discutida\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "1.70"
-msgstr ""
+msgstr "1.70"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "The fact he wasn't in the store shouldn't be forgotten."
 msgstr ""
+"\\shortstack{The fact he wasn't in the store shouldn't be forgotten.\\\\``O "
+"fato de que ele não estava na loja não deveria ser esquecido\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "1.80"
-msgstr ""
+msgstr "1.80"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "The idea he wasn't in the store is preposterous."
 msgstr ""
+"\\shortstack{The idea he wasn't in the store is preposterous.\\\\``A ideia "
+"de que ele não estava na loja é absurda\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "2.03"
-msgstr ""
+msgstr "2.03"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "I urge that anything he touch be burned."
 msgstr ""
+"\\shortstack{I urge that anything he touch be burned.\\\\``Insisto que tudo "
+"que ele toque seja queimado\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "Nobody is here who I get along with who I want to talk to."
 msgstr ""
+"\\shortstack{Nobody is here who I get along with who I want to talk to.\\\\"
+"``Ninguém está aqui com quem eu me dê bem com quem eu queira falar\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "2.60"
-msgstr ""
+msgstr "2.60"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "All the further we got was to Sudbury."
 msgstr ""
+"\\shortstack{All the further we got was to Sudbury.\\\\``O mais longe que "
+"chegamos foi até Sudbury\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "2.77"
-msgstr ""
+msgstr "2.77"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "Nobody who I get along with is here who I want to talk to."
 msgstr ""
+"\\shortstack{Nobody who I get along with is here who I want to talk to.\\\\"
+"``Ninguém com que eu me dê bem está aqui com quem eu queira falar\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "2.83"
-msgstr ""
+msgstr "2.83"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "Such formulas should be writable down."
 msgstr ""
+"\\shortstack{Such formulas should be writable down.\\\\``Tais fórmulas "
+"deveriam ser anotáveis no papel\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "3.07"
-msgstr ""
+msgstr "3.07"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "\\rdelim]{2}{2cm}[\\textit{Fringe}]"
-msgstr ""
+msgstr "\\rdelim]{2}{2cm}[\\textit{Margem}]"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "What will the grandfather clock stand between the bed and?"
 msgstr ""
+"\\shortstack{What will the grandfather clock stand between the bed and?\\\\"
+"``O que o relógio de pêndulo ficará entre a cama e?\".}"
 
 #. type: tabular
 #: chapters/04.tex:132
 msgid "3.30"
-msgstr ""
+msgstr "3.30"
 
 #. \textsuperscript{8}
 #. \textsuperscript{9}
@@ -935,6 +1015,56 @@ msgid ""
 "systematic differences between the two groups, which I discuss in "
 "\\sectref{sec:4.4.1}."
 msgstr ""
+"As classificações \\textit{núcleo}, \\textit{pântano} e \\textit{margem} são "
+"usadas por Ross para se referir à gama de sentenças boas, marginais e ruins, "
+"respectivamente. Essas divisões foram feitas a olho, não mediante qualquer "
+"procedimento sistemático\\footnote{Ross\\ia{Ross, John Robert} não se "
+"compromete a delimitar exatamente onde as divisões deveriam ser traçadas "
+"para as sentenças que ele estudou, então inseri as fronteiras "
+"arbitrariamente dentro das faixas que ele sugeriu.}. Ele encontrou três "
+"variáveis correlacionadas à sua distinção da ordem núcleo-pântano-margem "
+"(isto é, variáveis que mudavam de maneira monotônica, com sentenças boas em "
+"um extremo e sentenças marginais no outro): a variabilidade crescente entre "
+"sujeitos,\\is{variação interfalante!maior para sentenças marginais} "
+"confiança decrescente em seus julgamentos,\\is{confiança de sujeitos em seus "
+"julgamentos} e crescente avaliação de si como conservador. A descoberta "
+"sobre variabilidade combina bem com os resultados de Barsalou de julgamentos "
+"de tipicidade conceitual relatados na \\sectref{sec:3.3.1}. O padrão de "
+"confiança converge com os resultados de \\citet[52, fig. 9]{QuirkEtAl1966}, "
+"com base na quantidade de sujeitos que selecionaram a opção ``marginal ou "
+"dúbia\" em sua escala de 3 pontos; eles denominam esse fenômeno de "
+"``protuberância de respostas\". Em um nível intuitivo, esses resultados não "
+"são surpreendentes, mas a única explicação que Ross\\ia{Ross, John Robert} "
+"apresenta, a saber, que ``a mente vacila no meio\", não contribui muito\\f"
+"ootnote{Essa citação é atribuída a George Miller\\ia{Miller, George A.}.}. "
+"Apesar de um objetivo adicional desse questionário ter sido avaliar se "
+"pessoas sabem como seus julgamentos podem ser posicionados em relação aos "
+"julgamentos do resto da população, os dados não eram interpretáveis devido a "
+"leituras errôneas aparentes da escala de liberalidade\\footnote{Ross\\ia"
+"{Ross, John Robert} sugere que um jeito melhor de captar essa informação é "
+"simplesmente perguntar diretamente que notas os sujeitos acham que a maioria "
+"das outras pessoas dariam.}. Curiosamente, Ross não encontrou casos de "
+"julgamentos extremamente polarizados, isto é, sentenças que algumas pessoas "
+"avaliaram com nota 1 e que o restante avaliou com nota 4, sem qualquer "
+"avaliação intermediária. Em todos os casos, as duas notas mais frequentes "
+"eram adjacentes na escala, isto é, não houve distribuições bimodais. Ele "
+"sugere que isso pode ser um produto das sentenças específicas escolhidas; se "
+"peculiaridades dialetais\\is{dialetos (idioletos)} conhecidas tivessem sido "
+"escolhidas, a bimodalidade ainda poderia ter ocorrido. Entretanto, como "
+"medida de quão diferentes as pessoas são,\\is{variação interfalante!grau de} "
+"nenhum par de pessoas entre os 30 sujeitos concordou em suas avaliações de "
+"mais de 7 das 12 sentenças na escala de 4 pontos. Na verdade, Ross\\ia{Ross, "
+"John Robert} não testou todas as combinações de sentenças, então pode ser "
+"que consigamos diferenciar todos os sujeitos usando menos do que 7 sentenças "
+"(em comparação, \\citet{QuirkEtAl1966} (veja a \\sectref{sec:3.2}) relataram "
+"que com 76 sujeitos julgando 50 sentenças em uma escala de 3 pontos, somente "
+"duas sentenças foram unanimamente rejeitadas, e somente duas foram aprovadas)"
+". Esses tipos de resultados impressionantes levam Ross\\ia{Ross, John "
+"Robert} a perguntar ``Onde está o inglês?\" (a resposta que ele propõe é "
+"discutida abaixo). Um fator experiencial que contribuiu para a variabilidade "
+"entre os sujeitos de Ross\\ia{Ross, John Robert} foi que alguns de seus "
+"sujeitos eram linguistas, enquanto outros não eram. Ele encontrou diferenças "
+"sistemáticas entre os dois grupos, que eu discuto na \\sectref{sec:4.4.1}."
 
 #. \textsuperscript{11}
 #. type: Plain text
@@ -976,16 +1106,54 @@ msgid ""
 "differences in language behavior. Let us now consider the potential sources "
 "of these differences.\\is{interspeaker variation!sources of}"
 msgstr ""
+"A maioria dos linguistas reconhece que nenhum par de pessoas vai concordar "
+"mesmo em julgamentos binários de um grande conjunto de sentenças, quem dirá "
+"em ordenamentos\\footnote{Newmeyer\\ia{Newmeyer, Frederick J.} parece ser a "
+"exceção, ao afirmar que ``há bons motivos para pensar que dialetos\\is"
+"{dialetos (idioletos)} idiossincráticos (isto é, não geográficos e não "
+"sociais) não sejam qualquer coisa além de artefatos da perspectiva "
+"atualmente abandonada de que a gramaticalidade depende do contexto\" \\c"
+"itep[57]{Newmeyer1983}. No entanto, ele cita apenas um caso como evidência "
+"dessa generalização tão ampla: as sentenças negativas com quantificadores, e "
+"os fatos nesse caso ainda são controversos, conforme discutimos acima.}. O "
+"que isso nos diz sobre as gramáticas das pessoas? Se é que nos diz qualquer "
+"coisa. Os dados de Ross\\ia{Ross, John Robert} o levaram a tomar uma posição "
+"muito pessimista. Ele propôs, consternado, que talvez uma língua seja "
+"definida apenas como um espaço \\textit{n}-dimensional para algum \\textit"
+"{n} na casa dos milhares, onde cada ponto é uma sentença e cada dimensão é "
+"um eixo de ordenamento implicativo tal que a aceitação de uma sentença em um "
+"dado eixo implica a aceitação de todas as sentenças mais próximas da origem "
+"naquele eixo. Assim, o idioleto\\is{dialetos (idioletos)} de cada pessoa é "
+"um vetor \\textit{n}-dimensional que especifica o limiar de aceitação "
+"daquela pessoa para cada eixo. A maioria dos linguistas acha essa visão da "
+"linguagem espantosamente bagunçada e desinteressante\\footnote{Essa "
+"perspectiva parece ter surgido da proposta anterior de Ross\\ia{Ross, John "
+"Robert} do conceito de um \\isi{\\textit{squish}} (veja a\\sectref"
+"{sec:3.3.1}). Um \\textit{squish} é uma matriz bidimensional onde as células "
+"representam julgamentos. Em um eixo estão as formas classificadas segundo "
+"alguma propriedade, como voluntariedade crescente. No outro, estão os "
+"ambientes em que as formas podem ocorrer, classificadas pela medida em que "
+"elas exigem essa propriedade. Poderíamos fazer afirmações sobre quão "
+"organizado o padrão implicativo da matriz deveria ser entre falantes. "
+"Infelizmente, depois de algumas pesquisas nesse paradigma, começou a parecer "
+"que ambas hierarquias podiam variar entre falantes, ou até mesmo que esse "
+"padrão poderia ser violado por um único falante através do equivalente "
+"sintático de interações estatísticas: o efeito de uma dimensão sobre a "
+"gramaticalidade dependia do nível da outra dimensão.}. Discuto algumas "
+"posições alternativas no \\chapref{sec:6}. Remeto o leitor a \\citet"
+"{FillmoreEtAl1979a} para uma discussão bem abrangente de diferenças "
+"individuais no comportamento linguístico. Agora, consideremos as potenciais "
+"fontes dessas diferenças.\\is{variação interfalante!fontes de}"
 
 #. type: section{#2}
 #: chapters/04.tex:153
 msgid "Organismic Factors"
-msgstr ""
+msgstr "Fatores Organísmicos"
 
 #. type: subsection{#2}
 #: chapters/04.tex:153
 msgid "Field Dependence"
-msgstr ""
+msgstr "Dependência de Campo"
 
 #. type: Plain text
 #: chapters/04.tex:157
@@ -1033,6 +1201,52 @@ msgid ""
 "external influence, since they pay greater heed to others, so we should look "
 "for differential reactions to knowledge of other people's judgments."
 msgstr ""
+"Dependência/independência de campo\\is{(in)dependência de campo} é um "
+"conceito que teve origem na literatura de avaliação de personalidade na "
+"psicologia. Ele visa diagnosticar como funciona a percepção e o pensamento "
+"das pessoas, especificamente a medida em que elas realizam a \\textit"
+"{diferenciação cognitiva}, o processo de distinguir estímulos segundo "
+"dimensões diferentes. \\citet{Nagata1989b} investigou se a (in)dependência "
+"de campo influenciaria julgamentos de gramaticalidade. Uma pessoa dependente "
+"de campo (DC) funde aspectos do mundo e experiencia ele globalmente, ao "
+"passo que um independente de campo (IC) é analítico, separando informações e "
+"experiências em componentes. São encarados como traços mais ou menos "
+"permanentes de indivíduos \\citep{WeinerEtAl1977}. Há diversos testes "
+"diagnósticos de (in)dependência de campo que psicólogos demonstraram ser "
+"muito bem correlacionados. Um deles é teste da sala-inclinada-cadeira-"
+"inclinada, que envolve um aparelho que consiste de uma pequena sala em "
+"formato de caixa que contém uma cadeira, instalado em suportes mecânicos de "
+"forma que cada uma pode ser rotacionada independentemente em duas dimensões. "
+"Sujeitos sentados na cadeira não conseguem ver o lado de fora da sala, e são "
+"instruídos a julgar se acham que estão sentados em orientação ereta ou "
+"inclinados em relação ao mundo lá fora. Indivíduos DC tendem a acreditar que "
+"estão inclinados se a orientação da sala fizer parecer que sim, isto é, têm "
+"dificuldade para distinguir dicas visuais de dicas cinestésicas/"
+"vestibulares, ao passo que indivíduos IC têm menos dificuldade. Um teste "
+"mais simples de se conduzir, usado por Nagata para classificar seus "
+"sujeitos, é o teste de figuras embutidas. Nesse teste, os sujeitos devem "
+"rapidamente identificar figuras geométricas embutidas em figuras maiores e "
+"mais complexas. DCs têm mais dificuldade nessa tarefa do que ICs. Poderíamos "
+"esperar que essas diferenças em estilo cognitivo apresentassem efeitos "
+"colaterais linguísticos. Indivíduos IC apresentam uma orientação impessoal e "
+"possuem habilidades de restruturação cognitiva bem desenvolvidas, ao passo "
+"que indivíduos DC apresentam maiores capacidades interpessoais. Por exemplo, "
+"eles se recordam de palavras sociais melhor do que ICs, e usam elas com "
+"maior frequência em tarefas de associação livre. Logo, poderíamos prever que "
+"DCs usariam estratégias\\is{julgamentos de gramaticalidade!estratégias para} "
+"envolvendo o enriquecimento de sentenças de estímulo com um contexto ao "
+"julgar elas, enquanto ICs seriam mais propensos a traçar uma diferenciação "
+"estrutural (a natureza dessas estratégias é descrita em maior detalhe nas "
+"seções \\ref{sec:5.2.4} e \\ref{sec:5.2.5}, junto de uma discussão dos "
+"outros experimentos de Nagata). No entanto, conforme relatado na \\sectref"
+"{sec:3.5}, \\citet{MasnyEtAl1985} observaram que a dependência de campo não "
+"teve qualquer efeito discernível sobre a capacidade de julgamento em L2\\is"
+"{aprendizes de segunda língua}. Elas também revisam diversos estudos que "
+"tentam relacionar esse fenômeno à capacidade linguística, chegando a "
+"resultados mistos. Uma faceta adicional dessa distinção é que DCs são mais "
+"propensos a mudar suas opiniões sob influência externa, dado que prestam "
+"mais atenção nos outros, então deveríamos procurar reações diferenciais ao "
+"conhecimento dos julgamentos de outras pessoas."
 
 #. % Subject-Related Factors  109
 #. type: Plain text
@@ -1071,11 +1285,46 @@ msgid ""
 "involve restructuring a stimulus pattern, overcoming the influence of "
 "context, and shifting mental set."
 msgstr ""
+"O experimento de Nagata\\ia{Nagata, Hiroshi} envolveu a apresentação "
+"repetida de sentenças.\\is{repetição, efeito sobre julgamentos de "
+"gramaticalidade} Após avaliar a gramaticalidade de uma certa quantidade de "
+"sentenças (em uma escala de 1 a 7), os sujeitos eram expostos a cada "
+"sentença 10 vezes por 3 segundos para cada repetição, e nesse período foram "
+"instruídos a pensar na gramaticalidade da sentença. Após a décima repetição, "
+"eles avaliaram cada sentença uma segunda vez. Depois foi dito aos sujeitos "
+"que seus julgamentos divergiram das avaliações do estudante de graduação "
+"médio (o que Nagata considerou um reforço negativo), e foram instruídos a "
+"pensar sobre a gramaticalidade de cada sentença novamente e avaliá-las uma "
+"terceira vez. Outros experimentos mostraram que, para uma população geral, o "
+"procedimento de repetição torna os julgamentos significativamente mais "
+"rigorosos (isto é, sentenças são avaliadas como menos gramaticais após a "
+"repetição); veja detalhes na \\sectref{sec:5.2.3}. Nos experimentos de "
+"Nagata, os julgamentos de ICs de fato se tornaram mais rigorosos após a "
+"repetição, mas os de DCs não apresentaram mudança significativa.\\is{(in)"
+"dependência de campo} Após o reforço negativo, as avaliações de ambos grupos "
+"se tornaram mais lenientes (as dos DCs ainda mais, de maneira não "
+"significativa). Nagata conclui que DCs abordam a tarefa de julgar "
+"gramaticalidade de maneira diferente de ICs, já que resistem ao efeito "
+"típico de repetição. Poderíamos esperar que seus julgamentos se tornassem "
+"mais lenientes com a repetição, conforme considerassem mais contextos "
+"potenciais para as sentenças, mas essa tendência não foi observada também. "
+"Aparentemente, é muito mais difícil fazer sentenças melhorarem do que fazer "
+"elas piorarem (novamente, veja mais sobre esse ponto no \\chapref{sec:5}). A "
+"ideia de que DCs seriam mais receptivos a reforços negativos não foi "
+"corroborada. Em suma, podemos dizer que a dependência de campo é um fator "
+"que pode induzir variabilidade entre sujeitos em tarefas de julgamento de "
+"gramaticalidade, assim como ela faz em outros domínios. \\citet"
+"{LefeverEtAl1976} encontraram uma correlação ligeiramente positiva entre "
+"independência de campo e a capacidade de detectar diversos tipos de "
+"ambiguidade em sentenças, por exemplo.\\is{tarefas metalinguísticas!detecção "
+"de ambiguidade} Eles propõem que as características comuns entre as diversas "
+"tarefas envolvem a restruturação de um padrão de estímulo, a superação da "
+"influência do contexto e a mudança de configuração mental."
 
 #. type: subsection{#2}
 #: chapters/04.tex:163
 msgid "Handedness"
-msgstr ""
+msgstr "Lateralidade"
 
 #. \textsuperscript{13}
 #. \textsuperscript{14}
