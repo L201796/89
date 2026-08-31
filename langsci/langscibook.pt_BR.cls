@@ -487,7 +487,7 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
     \widowpenalty10000
     \normalmarginpar}
   
-\defbibheading{references}{\chapter{References}} 
+\defbibheading{references}{\chapter{Referências}} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
