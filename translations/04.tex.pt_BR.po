@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-08-28 11:51+0000\n"
+"PO-Revision-Date: 2026-08-31 23:22+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/04/pt_BR/>\n"
@@ -2084,6 +2084,45 @@ msgid ""
 "subjects who contradicted themselves on three or more of these had all their "
 "results discarded."
 msgstr ""
+"\\n"
+"oindent O experimento de Spencer usou dois grupos de sujeitos: os sujeitos "
+"leigos eram alunos de introdução à psicologia, enquanto os sujeitos não "
+"leigos eram estudantes de pós-graduação que tinham finalizado pelo menos uma "
+"disciplina de gramática gerativa\\footnote{Entretanto, aparentemente os "
+"sujeitos não leigos não possuíam um histórico uniforme na linguística, dado "
+"que alguns eram estudantes de pós-graduação em linguística, ao passo que "
+"outros eram estudantes de psicologia ou fonoaudiologia. Esses últimos grupos "
+"podem ter diluído os vieses linguísticos do primeiro grupo.}.\\is"
+"{julgamentos de leigos versus especialistas}\\is{julgamentos de "
+"especialistas versus leigos} Ela afirma que a definição de gramaticalidade e "
+"exemplos de \\citegen{Chomsky1961} foram usados como base para as instruções "
+"de seu experimento, mas tudo que ela de fato nos diz sobre essas instruções "
+"é o seguinte: ``Foram lidas para cada [sujeito] as mesmas instruções\\schdash"
+"{}ele era instruído a tomar uma decisão sobre cada afirmação a respeito de "
+"ela ser completa e bem formada ou não. Havia uma série de diretrizes e "
+"exemplos do que a [experimentadora] queria dizer. [...] Depois de as "
+"instruções serem lidas, o [sujeito] era instruído a dizer à "
+"[experimentadora] o que havia entendido das instruções, e quaisquer "
+"confusões ou omissões foram corrigidas\" (p. 91). Aparentemente, Spencer (ou "
+"seus editores) não consideraram ser importante a descrição dos detalhes "
+"dessas instruções, mas elas são cruciais para a interpretação dos "
+"resultados. Se elas não correspondessem ao conceito de gramaticalidade que "
+"linguistas usam, então temos uma variável de confusão\\footnote{\\citet"
+"{Newmeyer1983} faz essa crítica também.}. As sentenças de estímulo foram "
+"levantadas de seis artigos de linguística, e todas haviam sido identificadas "
+"como indiscutivelmente boas ou ruins pelo autor original. Infelizmente, "
+"nenhuma das sentenças foi reproduzida no artigo. \\citet{Newmeyer1983} "
+"supõe, a partir dos artigos usados como base, que muitas delas eram "
+"pragmaticamente bem estranhas e que exigiam um contexto inusitado para "
+"soarem aceitáveis. O desenho experimental de Spencer tinha a intenção de "
+"traçar dois possíveis resultados que comprometeriam o uso de linguistas de "
+"suas próprias intuições: variação intersujeito de sujeitos leigos em casos "
+"supostamente inequívocos, e consenso entre sujeitos leigos que divergisse do "
+"julgamento de um linguista. Também foi verificada a consistência:\\is"
+"{consistência (entre e intrafalante)!quantificação de} seis sentenças "
+"escolhidas aleatoriamente foram julgadas novamente no final da sessão "
+"experimental, e sujeitos que se contradisseram em três ou mais delas tiveram "
+"todos os seus resultados descartados."
 
 #. \textsuperscript{23}
 #. type: Plain text
@@ -2113,6 +2152,31 @@ msgid ""
 "differences in the distribution of exemplars found unacceptable, unclear, "
 "and acceptable.''"
 msgstr ""
+"O primeiro resultado foi que uma média de 81,4\\% das 150 sentenças foram "
+"consideradas como casos inequívocos, conforme a definição segundo grau de "
+"consenso entre sujeitos. Pelo menos 65\\% de cada grupo deu a mesma nota "
+"(boa ou ruim, não havia outras respostas disponíveis). Isto é, a divisão "
+"entre participantes que aceitaram e rejeitaram a sentença tinha que estar a "
+"pelo menos 15\\% de distância de uma divisão igualitária. Mas isso não é um "
+"consenso particularmente forte; 35\\% dos sujeitos ainda poderiam ter "
+"discordado. Se um critério de 75\\% tivesse sido estabelecido, a porcentagem "
+"de casos inequívocos teria sido mais baixa. Spencer não oferece valores a "
+"partir dos quais possamos calcular com exatidão. Ela reconhece que sua "
+"escolha de limiar é arbitrária (em comparação, \\citet{SnowEtAl1977} relatam "
+"que 20\\% de suas sentenças foram casos dúbios entre falantes leigos "
+"nativos. Sua definição de dubiedade indica uma sentença que recebe "
+"aproximadamente o mesmo número de aceitações e rejeições). No que diz "
+"respeito a sujeitos leigos e não leigos terem divergido em suas respostas,\\i"
+"s{julgamentos de leigos versus especialistas} é impossível ter certeza com "
+"base nos valores relatados por Spencer, por duas razões. Primeiramente, "
+"apesar de ela mostrar que a proporção de sentenças aceitas pelos dois grupos "
+"diverge em 6\\%, ela não relata qualquer teste estatístico de "
+"significatividade para essa diferença. Em segundo, essa comparação não "
+"revelaria a situação em que os grupos divergiram em \\textit{quais} "
+"sentenças foram aceitas, mas na \\textit{quantidade} de aceitações, que "
+"acabou por ser aproximadamente a mesma. Spencer simplesmente afirma que não "
+"ocorreram ``diferenças perceptíveis na distribuição de exemplos considerados "
+"inaceitáveis, incertos e aceitáveis\"."
 
 #. type: footnote{#2}
 #: chapters/04.tex:245
@@ -2120,6 +2184,8 @@ msgid ""
 "For Spencer, an unclear sentence is one on which the subjects did not show "
 "consensus by the measure defined above."
 msgstr ""
+"Para Spencer, uma sentença dúbia é aquela para a qual os sujeitos não "
+"apresentaram consenso segundo a medida definida acima."
 
 #. type: Plain text
 #: chapters/04.tex:249
@@ -2158,6 +2224,37 @@ msgid ""
 "representativeness of judgments; we cannot conclude that this sample should "
 "not consist of linguists."
 msgstr ""
+"Já na comparação dos sujeitos com os autores linguistas, 73 das 150 "
+"sentenças apresentaram divergência, definida pela avaliação amalgamada dos "
+"sujeitos sendo incerta ou contrária à do linguista. A \\tabref{tab:1} (de \\c"
+"itet{Spencer1973}) detalha os resultados. Entre as divergências, 81\\% foram "
+"unânimes entre os grupos de sujeitos, e na maioria dos casos restantes, "
+"foram os sujeitos leigos\\is{julgamentos de leigos versus especialistas} que "
+"discordaram dos linguistas enquanto os sujeitos não leigos concordaram, mas, "
+"novamente, não foi analisada a significatividade dessa diferença. Devemos "
+"manter em mente, entretanto, que essa taxa de 50\\% de discordância é medida "
+"através da comparação dos julgamentos amalgamados de 65 sujeitos ao de um "
+"único linguista, um ponto que muitos artigos subsequentes enfatizaram. Logo, "
+"apesar de certamente podermos concluir que os julgamentos publicados não "
+"apresentaram uma boa correspondência com a população como um todo, "
+"fundamentalmente não podemos concluir que os linguistas \\textit{como grupo} "
+"têm julgamentos sistematicamente diferentes de não linguistas. Uma "
+"comparação com qualquer sujeito leigo escolhido aleatoriamente bem poderia "
+"ter apresentado a mesma quantidade de discordâncias. Não obstante, Spencer "
+"conclui que linguistas não deveriam confiar em suas intuições: ``É razoável "
+"afirmar que os julgamentos dos linguistas usados são representativos de "
+"muitos linguistas como grupo\", já que não foram registradas quaisquer "
+"réplicas nos 4\\textendash{}5 anos desde que os artigos originais haviam "
+"surgido. Mas há muitas explicações alternativas para essa situação. No que "
+"diz respeito à direção das discordâncias, a tabela mostra que em 42 "
+"sentenças os não linguistas foram mais tolerantes, em média\\footnote{Se "
+"esperamos que linguistas deveriam ser mais conscientes de suas tendências "
+"enunciativas reais do que falantes não treinados, então esse resultado "
+"contradiz a recomendação geral de \\citet{HindleEtAl1975} de confiar mais em "
+"julgamentos ``OK\" do que em asteriscos.}. Assim, a única recomendação "
+"sólida que podemos tirar desse estudo é que uma amostra razoável deve ser "
+"usada para determinar a representatividade de julgamentos; não podemos "
+"concluir que essa amostra não deveria consistir em linguistas."
 
 #. %please move \begin{table} just above \begin{tabular
 #.  \multirow{3}{*}
@@ -2169,11 +2266,13 @@ msgid ""
 "Comparison of Linguists' and Nonlinguists' Acceptability Judgments "
 "\\citep{Spencer1973}"
 msgstr ""
+"Comparação dos Julgamentos de Aceitabilidade de Linguistas e Não Linguistas "
+"\\citep{Spencer1973}"
 
 #. type: tabular
 #: chapters/04.tex:284 chapters/04.tex:390
 msgid "\\lsptoprule"
-msgstr ""
+msgstr "\\lsptoprule"
 
 #. type: tabular
 #: chapters/04.tex:284
@@ -2181,121 +2280,123 @@ msgid ""
 "\\multicolumn{4}{c}{Judgment (+ = acceptable; \\textminus\\xspace = "
 "unacceptable; \\textpm\\xspace = unclear case)}"
 msgstr ""
+"\\multicolumn{4}{c}{Julgamento (+ = aceitável; \\textminus\\xspace = "
+"inaceitável; \\textpm\\xspace = caso dúbio)}"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\cmidrule{2-5} \\multicolumn{1}{l}{Number of sentences}"
-msgstr ""
+msgstr "\\cmidrule{2-5} \\multicolumn{1}{l}{Quantidade de sentenças}"
 
 #. type: parbox{#5}
 #: chapters/04.tex:284
 msgid "Linguist\\\\\\centering (as published)"
-msgstr ""
+msgstr "Linguista\\\\\\centering (conforme publicado)"
 
 #. type: parbox{#5}
 #: chapters/04.tex:284
 msgid "~\\\\\\centering Naive group"
-msgstr ""
+msgstr "~\\\\\\centering Grupo leigo"
 
 #. type: parbox{#5}
 #: chapters/04.tex:284
 msgid "~\\\\\\centering Nonnaive group"
-msgstr ""
+msgstr "~\\\\\\centering Grupo não leigo"
 
 #. type: parbox{#5}
 #: chapters/04.tex:284
 msgid "~\\\\\\centering Total"
-msgstr ""
+msgstr "~\\\\\\centering Total"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\midrule \\multicolumn{1}{l}{Consensual Agreement}"
-msgstr ""
+msgstr "\\midrule \\multicolumn{1}{l}{Convergência Consensual}"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "51"
-msgstr ""
+msgstr "51"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\textminus\\xspace"
-msgstr ""
+msgstr "\\textminus\\xspace"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "77"
-msgstr ""
+msgstr "77"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\multicolumn{1}{l}{Consensual Disagreement}"
-msgstr ""
+msgstr "\\multicolumn{1}{l}{Discordância Consensual}"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\textminus\\xspace or \\textpm"
-msgstr ""
+msgstr "\\textminus\\xspace ou \\textpm"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "42"
-msgstr ""
+msgstr "42"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "+ or \\textpm"
-msgstr ""
+msgstr "+ ou \\textpm"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "59"
-msgstr ""
+msgstr "59"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "\\multicolumn{1}{l}{Judgments Mixed}"
-msgstr ""
+msgstr "\\multicolumn{1}{l}{Julgamentos Mistos}"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. type: tabular
 #: chapters/04.tex:284
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. type: tabular
 #: chapters/04.tex:284 chapters/04.tex:390 chapters/05.tex:133
 msgid "\\lspbottomrule"
-msgstr ""
+msgstr "\\lspbottomrule"
 
 #. \textsuperscript{25}
 #. type: Plain text
