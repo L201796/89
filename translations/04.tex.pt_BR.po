@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-09-03 09:51+0000\n"
+"PO-Revision-Date: 2026-09-04 08:51+0000\n"
 "Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/04/pt_BR/>\n"
@@ -3030,6 +3030,25 @@ msgid ""
 "sense, but both factors appear to affect explicit grammatical knowledge, and "
 "hence will confound many other metalinguistic tasks."
 msgstr ""
+"\\n"
+"oindent Nessa tarefa, as explicações foram avaliadas em uma escala de 0\\t"
+"extendash{}5. O autores oferecem a \\tabref{tab:2}, que resume a quantidade "
+"de erros corrigidos adequadamente e o valor total das notas das explicações "
+"das seis sentenças. Aqui, a análise de regressão mostrou que a "
+"escolarização\\is{educação, efeito sobre habilidades linguísticas} foi o "
+"fator que mais contribuiu para as notas de explicações\\is{explicar seu "
+"julgamento}, e a alfabetização em Vai\\is{alfabetização, efeito sobre "
+"habilidades linguísticas} também foi um fator. É importante destacar que "
+"falantes alfabetizados\\is{falantes alfabetizados} e \\isi{falantes "
+"analfabetos} tiveram desempenho igualmente bom em outras tarefas que "
+"investigaram suas capacidades de explicação, então o efeito observado nesse "
+"experimento é específico ao conteúdo linguístico do problema. Podemos "
+"concluir, a partir desse trabalho, que a alfabetização e a escolarização "
+"possuem um efeito pequeno sobre a capacidade de identificação de "
+"agramaticalidade, e portanto sobre a emissão de julgamentos de "
+"gramaticalidade em sentido estrito, mas ambos fatores parecem afetar o "
+"conhecimento gramatical explícito, e portanto atuarão como variáveis de "
+"confusão em muitas outras tarefas metalinguísticas."
 
 #. type: footnote{#2}
 #: chapters/04.tex:374
@@ -3049,6 +3068,22 @@ msgid ""
 "particular domain does not always imply the ability to use that knowledge in "
 "the abstract."
 msgstr ""
+"Um resultado similar em outro domínio é relatado por \\citet{ReedEtAl1979}, "
+"também baseado em trabalho conduzido na \\isi{Libéria}. Essas autoras "
+"investigaram as capacidades aritméticas de alfaiates \\isi{Vai} e \\isi"
+"{Gola} para determinar a contribuição da educação formal ocidental\\is"
+"{educação, efeito sobre habilidades linguísticas} em comparação com o "
+"estágio tradicional. Suas conclusões sugerem que essas capacidades podem ser "
+"muito específicas a determinados domínios: o mesmo problema formulado em "
+"termos de unidades monetárias pode ser mais difícil do que quando é "
+"formulado em termos de quantidade de botões que devem ser costurados em uma "
+"calça, por exemplo. Elas também observaram que os tipos de erros cometidos "
+"divergem sistematicamente entre os dois grupos que receberam diferentes "
+"tipos de educação,\\is{educação, efeito sobre habilidades linguísticas} e "
+"parecem refletir as maneiras diferentes como a aritmética é ensinada na "
+"escola ou no trabalho. O resultado geral é que possuir a habilidade de "
+"aplicar conhecimento a um domínio específico nem sempre implica a capacidade "
+"de usar esse conhecimento em abstrato."
 
 #. type: caption{#2}
 #: chapters/04.tex:378
@@ -3056,106 +3091,108 @@ msgid ""
 "Comparison of Vai Error Correction and Explanation as a Function of Literacy "
 "\\citep{ScribnerEtAl1981}"
 msgstr ""
+"Comparação da Correção de Erros e Explicações dos Vai como Função da "
+"Alfabetização \\citep{ScribnerEtAl1981}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{Maximum}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Nota máxima}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{Arabic}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Monoletrados em}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{Vai}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Monoletrados em}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{Schooled}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Alfabetizados}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{possible score}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{possível}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{Nonliterate}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Analfabetos}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{monoliterate}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{árabe}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\multicolumn{1}{c}{literate}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{escolarizados}"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "\\midrule Number correct"
-msgstr ""
+msgstr "\\midrule Quantidade de acertos"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "5.1"
-msgstr ""
+msgstr "5,1"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "4.5"
-msgstr ""
+msgstr "4,5"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "5.0"
-msgstr ""
+msgstr "5,0"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "5.6"
-msgstr ""
+msgstr "5,6"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "Explanation score"
-msgstr ""
+msgstr "Nota da explicação"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "6.9"
-msgstr ""
+msgstr "6,9"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "8.1"
-msgstr ""
+msgstr "8,1"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "9.9"
-msgstr ""
+msgstr "9,9"
 
 #. type: tabular
 #: chapters/04.tex:390
 msgid "15.7"
-msgstr ""
+msgstr "15,7"
 
 #. \textsuperscript{31}
 #. \textsuperscript{32}
