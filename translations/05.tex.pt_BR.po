@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-10-28 08:51+0000\n"
+"PO-Revision-Date: 2026-10-29 09:51+0000\n"
 "Last-Translator: Lucas Bernardes <l201796@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/05/pt_BR/>\n"
@@ -1338,97 +1338,103 @@ msgstr ""
 #. type: table
 #: chapters/05.tex:133
 msgid "\\robustify\\bfseries"
-msgstr ""
+msgstr "\\robustify\\bfseries"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\lsptoprule Sentence Type"
-msgstr ""
+msgstr "\\lsptoprule Tipo de Sentença"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\multicolumn{1}{c}{SSA Condition}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Condição AS}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\multicolumn{1}{c}{OSA Condition}"
-msgstr ""
+msgstr "\\multicolumn{1}{c}{Condição AO}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\midrule A house is a building"
 msgstr ""
+"\\midrule \\shortstack{A house is a building.\\\\``Uma casa é uma "
+"construção\".}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "9.55"
-msgstr ""
+msgstr "9,55"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "9.60"
-msgstr ""
+msgstr "9,60"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "A garage is a building."
 msgstr ""
+"\\shortstack{A garage is a building.\\\\``Uma garagem é uma construção\".}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "7.60"
-msgstr ""
+msgstr "7,60"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "8.60"
-msgstr ""
+msgstr "8,60"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\bfseries A lean-to is a building."
 msgstr ""
+"\\bfseries \\shortstack{A lean-to is a building.\\\\``Um puxado é uma "
+"construção\".}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\bfseries 5.40"
-msgstr ""
+msgstr "\\bfseries 5,40"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\bfseries 7.35"
-msgstr ""
+msgstr "\\bfseries 7,35"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "A tent is a building."
 msgstr ""
+"\\shortstack{A tent is a building.\\\\``Uma barraca é uma construção\".}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "3.25"
-msgstr ""
+msgstr "3,25"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "4.50"
-msgstr ""
+msgstr "4,50"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "\\textsc{overall}"
-msgstr ""
+msgstr "\\textsc{média geral}"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "6.45"
-msgstr ""
+msgstr "6,45"
 
 #. type: tabular
 #: chapters/05.tex:133
 msgid "7.51"
-msgstr ""
+msgstr "7,51"
 
 #. type: caption{#2}
 #: chapters/05.tex:137
@@ -1436,6 +1442,9 @@ msgid ""
 "Mean Truth Ratings of Sentences as a Function of Self-Awareness "
 "\\nohyphens{\\citep{CarrollEtAl1981}}."
 msgstr ""
+"Avaliações Médias da Condição de Verdade das Sentenças em Função da "
+"Autoconsciência \\n"
+"ohyphens{\\citep{CarrollEtAl1981}}."
 
 #. type: Plain text
 #: chapters/05.tex:141
@@ -1471,6 +1480,37 @@ msgid ""
 "although it is worth noting that the \\textit{relative} truth ratings were "
 "the same for both groups."
 msgstr ""
+"Dado que esse problema teórico não é de nosso interesse aqui, e na verdade "
+"não é mais tão discutido, vou ignorar as possíveis implicações teóricas dos "
+"resultados e apenas me preocupar com os efeitos produzidos sobre os próprios "
+"julgamentos. \\citeauthor{CarrollEtAl1981} sugeriram que, ao oferecer "
+"intuições, linguistas precisam adentrar algo como o estado AO\\is"
+"{autoconsciência objetiva (AO)}. Ao contrário de um falante normal, que está "
+"subjetivamente preocupado e vai tender a produzir erros de fala e "
+"ambiguidades sem notar elas (como os próprios \\citeauthor{DuvalEtAl1972} "
+"sugerem), o linguista deve parar de ser um falante-ouvinte para pausar e "
+"refletir sobre o sinal linguístico, para ``objetificar a sentença destacada "
+"de todos os contextos funcionais específicos em potencial do enunciado\". Em "
+"um estudo piloto, seus sujeitos avaliaram o valor de verdade de afirmações "
+"categóricas como as listadas na \\tabref{tab:3} em uma escala de 1 (menos "
+"verdadeira) a 10 (mais verdadeira). Em uma condição, os sujeitos tinham que "
+"usar um guia de referência que estava grudado em um espelho\\is{olhar para o "
+"espelho, efeito sobre a autoconsciência} para preencher o questionário, mas "
+"não foram instruídos a olhar para o espelho; a outra condição não "
+"apresentava um espelho. As notas médias para as duas condições são "
+"apresentadas na \\tabref{tab:3} (de \\citealt[372]{CarrollEtAl1981}). No "
+"geral, os sujeitos na condição AO deram notas de condição de verdade "
+"maiores. Além disso, a maior diferença entre os grupos ocorreu em sentenças "
+"como a que foi destacada na tabela\\schdash{}sentenças que são tecnicamente "
+"verdadeiras, mas pragmaticamente improváveis. Os autores propõem a "
+"explicação de que sujeitos AO consideram mais situações comunicacionais "
+"possíveis do que sujeitos AS\\is{autoconsciência subjetiva (AS)}, e isso é "
+"fundamental para os casos marginais. As sentenças falsas são pragmaticamente "
+"apropriadas em pouquíssimas situações, e as paradigmáticas não dependem de "
+"qualquer contextualização para estabelecer sua veracidade. A conclusão mais "
+"geral é que a manipulação de autoconsciência se manifesta em tarefas "
+"linguísticas, apesar de valer a pena sublinhar que as avaliações \\textit"
+"{relativas} de condição de verdade foram as mesmas para ambos os grupos."
 
 #. \textsuperscript{12}
 #. type: Plain text
@@ -1485,66 +1525,86 @@ msgid ""
 "similarity, so once again we have the potential for widely varying "
 "interpretations.}\\\\"
 msgstr ""
+"Assim, \\citeauthor{CarrollEtAl1981} passaram para sua investigação central. "
+"Já que ela não diz respeito a julgamentos de gramaticalidade, meu resumo "
+"será consideravelmente breve, focando nos aspectos que são relevantes ao "
+"estudo de Nagata\\ia{Nagata, Hiroshi}. A tarefa exigia que avaliassem a "
+"similaridade de pares de sentença do seguinte tipo de paradigma\\footnote"
+"{Não foi dito aos sujeitos o que deveriam usar como base para medir "
+"similaridade, então novamente encaramos um potencial para interpretações "
+"muito variáveis.}:\\\\"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Active:}"
-msgstr ""
+msgstr "\\textit{Ativa:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The morning sun dried the sweet raisins."
 msgstr ""
+"\\shortstack{The morning sun dried the sweet raisins.\\\\``O sol da manhã "
+"secou as passas doces\".}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Passive:}"
-msgstr ""
+msgstr "\\textit{Passiva:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The sweet raisins were dried by the morning sun."
 msgstr ""
+"\\shortstack{The sweet raisins were dried by the morning sun..\\\\``As "
+"passas doces foram secas pelo sol da manhã\".}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Inchoate:}"
-msgstr ""
+msgstr "\\textit{Incoativa:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The sweet raisins dried in the morning sun."
 msgstr ""
+"\\shortstack{The sweet raisins dried in the morning sun.\\\\``As passas "
+"doces secaram no sol da manhã\".}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Were-Inchoate:}"
-msgstr ""
+msgstr "\\textit{Incoativa-ser:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The sweet raisins were dried in the morning sun."
 msgstr ""
+"\\shortstack{The sweet raisins were dried in the morning sun.\\\\``As passas "
+"doces foram secas no sol da manhã\".}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Cause:}"
-msgstr ""
+msgstr "\\textit{Causal:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The morning sun caused the sweet raisins to dry."
 msgstr ""
+"\\shortstack{The morning sun caused the sweet raisins to dry.\\\\``O sol da "
+"manhã fez com que as passas doces secassem\".}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "\\textit{Because:}"
-msgstr ""
+msgstr "\\textit{Causal-porque:}"
 
 #. type: tabular
 #: chapters/05.tex:157
 msgid "The sweet raisins dried because of the morning sun."
 msgstr ""
+"\\shortstack{The sweet raisins dried because of the morning sun.\\\\``As "
+"passas doces secaram por causa do sol da manhã\".}"
 
 #. \textsuperscript{13}
 #. type: Plain text
@@ -1568,6 +1628,24 @@ msgid ""
 "similarity measure would depend on whether the situation prompted "
 "communicative versus sentential assessment."
 msgstr ""
+"\\\\\\\\ \\n"
+"oindent A característica relevante desse grupo de sentenças é que elas são "
+"semanticamente muito próximas, mas sintaticamente bem diferentes. A previsão "
+"era que sujeitos AO\\is{autoconsciência objetiva (AO)}, que são mais "
+"conscientes de interações sociais, seriam mais sensíveis a similaridades "
+"comunicativas, já que eles consideram uma gama mais ampla de situações "
+"potenciais para os enunciados, e portanto iriam divergir de sujeitos AS\\is"
+"{autoconsciência subjetiva (AS)}, que iriam focar na forma superficial das "
+"sentenças. Essa previsão foi corroborada. Sujeitos AO deram notas de "
+"similaridade maiores, no geral; além disso, os gráficos de escalonamento "
+"multidimensional saíram consideravelmente diferentes para os dois grupos. \\c"
+"iteauthor{CarrollEtAl1981} interpretam que seus resultados mostram que "
+"pessoas podem usar diferentes \\textit{estratégias de interpretação de "
+"intuições}, a depender da situação. Extrapolando a partir de sua afirmação, "
+"podemos imaginar que pessoas têm intuições sobre as propriedades estruturais "
+"e comunicativas de sentenças, mas a forma como estas são ponderadas no "
+"caminho até uma medida geral de similaridade dependeria do fato de uma "
+"situação incitar uma avaliação comunicativa ou sentencial."
 
 #. type: footnote{#2}
 #: chapters/05.tex:157
@@ -1577,6 +1655,11 @@ msgid ""
 "same effect, e.g., showing someone a photograph of another person instead of "
 "the mirror. To my knowledge, such an experiment has not been done."
 msgstr ""
+"Se a situação envolve apenas uma orientação comunicativa, em contraste com "
+"ver \\textit{você mesmo} objetificado, poderíamos esperar que outros "
+"procedimentos teriam o mesmo efeito, como mostrar para alguém uma fotografia "
+"de outra pessoa, em vez do espelho. Até onde eu saiba, um experimento do "
+"tipo nunca foi conduzido."
 
 #. \originalpage{144} %  Chapter Five ,
 #. \textsuperscript{14}
@@ -1640,6 +1723,67 @@ msgid ""
 "reliable, it cannot be explained by processing load alone: self-awareness "
 "must be considered."
 msgstr ""
+"Vamos retornar para o campo dos julgamentos de gramaticalidade, e "
+"especificamente para os experimentos relatados por \\citet{Nagata1989a}, que "
+"investigaram os efeitos da autoconsciência\\is{autoconsciência objetiva (AO)}"
+"\\is{autoconsciência subjetiva (AS)} e sua interação com a manipulação de "
+"repetição\\is{repetição, efeito sobre julgamentos de gramaticalidade!e "
+"predisposição introspectiva} descrita anteriormente. Nagata\\ia{Nagata, "
+"Hiroshi} partiu da suposição de que, em seus estudos anteriores de "
+"repetição, os sujeitos se encontravam em um estado AS\\is{autoconsciência "
+"subjetiva (AS)} (já que não havia gatilho de estado AO\\is{autoconsciência "
+"objetiva (AO)}), e que consequentemente usaram estratégias sentenciais como "
+"os sujeitos AS\\is{autoconsciência subbjetiva (AS)} de \\citeauthor"
+"{CarrollEtAl1981}. Talvez a repetição teria um efeito diferente sobre "
+"sujeitos AO: ao longo de múltiplas repetições, eles poderiam considerar mais "
+"situações ou contextos em potencial para as sentenças, e portanto avaliar "
+"elas como mais gramaticais (ideia estabelecida no experimento original de "
+"Nagata). O primeiro teste dessa hipótese envolveu o mesmo paradigma de "
+"repetição de antes, com a exceção de que na condição AO havia espelhos "
+"ladeando o monitor de tubo em que as sentenças apareciam, e os sujeitos "
+"foram instruídos a olharem para si no espelho\\is{olhar para o espelho, "
+"efeito sobre a autoconsciência} enquanto emitiam julgamentos e enquanto "
+"pensavam sobre a gramaticalidade das sentenças durante a repetição. Os "
+"sujeitos AS apresentaram uma diminuição de notas, conforme estudos "
+"anteriores, mas sujeitos AO não apresentaram mudança de notas depois da "
+"repetição. Logo, parece que a manipulação do espelho eliminou os efeitos da "
+"repetição, apesar de não ter induzido uma leniência maior nos julgamentos. "
+"Nagata estava convencido de que tal efeito de leniência deveria ser "
+"comprovável, e sugeriu que ele havia sido prejudicado por possíveis efeitos "
+"teto, instruções confusas e exposição demais ao espelho (isto é, ele pode "
+"ter começado a induzir a estratégia comunicativa nos julgamentos iniciais, "
+"deixando menos espaço para uma mudança mensurável depois da repetição). Um "
+"experimento subsequente tentou resolver esses problemas usando apenas "
+"sentenças avaliadas como intermediárias (para evitar o teto, mas, dessa "
+"forma, limitando a generalidade do resultado), removendo os espelhos da fase "
+"de julgamento inicial, e explicitamente instruindo os sujeitos a "
+"simultaneamente olharem para si no espelho e pensarem sobre a "
+"gramaticalidade das sentenças. Observe que trata-se de um uso muito mais "
+"explícito e contundente da manipulação do espelho do que aquele visto em \\c"
+"iteauthor{DuvalEtAl1972} ou \\citeauthor{CarrollEtAl1981}. Além disso, "
+"nenhum efeito significativo de autoconsciência havia sido encontrado entre "
+"os julgamentos pré-repetição no primeiro experimento. Aparentemente, esse "
+"procedimento em particular não é tão suscetível a manipulações de "
+"autoconsciência quanto aqueles outros. Isso pode ser devido ao fato de "
+"julgamentos de gramaticalidade serem uma tarefa inerentemente mais "
+"estrutural, em comparação com julgamentos de similaridade ou valor de "
+"verdade. A despeito de toda essa ênfase, os julgamentos AO\\is"
+"{autoconsciência objetiva (AO)} saíram apenas ligeiramente mais lenientes "
+"após a repetição. Um segundo experimento subsequente foi conduzido para "
+"descartar uma possível variável de confusão: é possível que a divisão da "
+"atenção dos sujeitos entre olhar para o espelho e ponderar as sentenças "
+"tenha criado avaliações diferentes daquelas dos sujeitos AS\\is"
+"{autoconsciência subjetiva (AS)}, independentemente do fato de que a "
+"atividade concorrente estava relacionada à autoconsciência. Logo, Nagata\\ia"
+"{Nagata, Hiroshi} deu aos sujeitos um problema aritmético simples para "
+"resolverem como tarefa distratora durante a fase de repetição, em vez de "
+"encarar o espelho, para ver se a divisão dos recursos de processamento "
+"poderia explicar a conclusão anterior. Nessa condição, não houve mudança nos "
+"julgamentos depois da repetição em comparação com resultados anteriores, "
+"então a divisão da atenção \\textit{pode} anular o efeito de repetição. No "
+"entanto, não houve tendência de \\textit{aumento} de notas, logo, na medida "
+"em que tal efeito é confiável, ele não pode ser explicado pela carga de "
+"processamento por si: a autoconsciência deve ser levada em conta."
 
 #. type: footnote{#2}
 #: chapters/05.tex:164
@@ -1648,11 +1792,14 @@ msgid ""
 "involved subtracting 2 from an integer, was not as demanding as mirror "
 "gazing."
 msgstr ""
+"Esse não é um argumento incontestável. Talvez a tarefa aritmética, que "
+"envolvia a subtração de 2 de um número inteiro, não fosse tão custosa quanto "
+"olhar para o espelho."
 
 #. type: subsection{#2}
 #: chapters/05.tex:166
 msgid "Judgment Strategy"
-msgstr ""
+msgstr "Estratégia de Julgamento"
 
 #. \textsuperscript{15}
 #. type: Plain text
