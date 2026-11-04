@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: schutze 1996\n"
 "POT-Creation-Date: 2025-08-09 10:14-0300\n"
-"PO-Revision-Date: 2026-09-08 07:51+0000\n"
-"Last-Translator: Lucas Bernardes <L201796@dac.unicamp.br>\n"
+"PO-Revision-Date: 2026-11-05 10:51+0000\n"
+"Last-Translator: Lucas Bernardes <l201796@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "schutze1996_pt_BR/04/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.9.1\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 #. type: section{#2}
 #: chapters/01.tex:6 chapters/02.tex:8 chapters/02.tex:225 chapters/03.tex:5
@@ -1731,9 +1731,9 @@ msgstr ""
 "ectref{sec:4.3.1}. As autoras não apresentam evidências específicas dessas "
 "interdependências, no entanto. Em geral, variáveis demográficas são difíceis "
 "de se estudar rigorosamente nesse contexto, porque seus efeitos parecem ser "
-"pequenos em relação aos fatores de estímulo e podem frequentemente interagir "
-"entre si, o que exige grandes amostras de sujeitos para detectarmos os "
-"efeitos de maneira confiável."
+"pequenos em comparação com os fatores relacionados ao estímulo, e podem "
+"frequentemente interagir entre si, o que exige grandes amostras de sujeitos "
+"para detectarmos os efeitos de maneira confiável."
 
 #. type: section{#2}
 #: chapters/04.tex:200
